@@ -1,13 +1,13 @@
 
-# List of .ACADEMY One Word Domain Names (2,840)
+# List of .ACADEMY One Word Domain Names (2,934)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/academy-oneword-domains.svg?style=flat)]() [![2,840 .ACADEMY one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-2%2C840-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/academy-oneword-domains.svg?style=flat)]() [![2,934 .ACADEMY one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-2%2C934-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .ACADEMY one-word domains still available to buy.
 
 This dataset contains 1,000 .ACADEMY one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (2,840) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (2,934) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,48 +15,48 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.84K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.93K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Created | Expires | Actions                                                                                                                                                                                  |
-| ------------------ | --------- | -------- | ------ | ------ | ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.academy  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/393e35e6-9710-481e-ab98-f46707cacae1?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.academy      | available | 43       | 2%     | 5      |         |         | [Analyse](https://unique.domains/domain/227517d4-6b04-4453-91d3-4e12d488767b?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.academy  | available | 58       | 10%    | 9      |         |         | [Analyse](https://unique.domains/domain/b1432f77-3f42-406b-84fe-b68bdba009d3?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.academy    | available | 60       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/a54e7061-277e-4318-a626-b5f0147c990e?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.academy     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/c5d58f8f-d715-4a99-80c1-84cba6b9a5cd?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.academy   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/63ac7ef2-c4da-49b9-a71c-b983d8fa1f94?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.academy     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/3867a766-3e53-4643-9b87-48863136d662?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.academy    | available | 54       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/9be200c5-b684-4567-b1ee-005c0486ffbc?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.academy   | available | 50       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/664e2f70-89c2-464f-9a3c-d81802195fcb?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.academy  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/6f24f5cc-cc3a-45a8-9362-16fb725e7159?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.academy  | available | 82       | 2%     | 9      |         |         | [Analyse](https://unique.domains/domain/d30f567e-b5b6-462f-9639-1c15804a5b1b?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.academy | available | 56       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/296acaaf-ec1b-4b1f-b748-2b3700e37152?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.academy   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/d1788d3e-68ef-4e29-8529-2e2fca66402d?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.academy   | available | 68       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/2ab13659-ca3f-4897-963f-ac17a3930b5d?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.academy  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/249ac43e-68bf-466b-9b71-22933411aeb4?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.academy    | available | 82       | 3%     | 7      |         |         | [Analyse](https://unique.domains/domain/2e6c9781-6334-42a8-9efd-accb62476363?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.academy | available | 68       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/c378b76a-317f-483d-a2d2-937bca1ea5bb?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.academy   | available | 74       | 7%     | 8      |         |         | [Analyse](https://unique.domains/domain/e6b453a5-2c1a-4b47-a73a-de9ac3b9e06d?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.academy    | available | 56       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/2894f933-13ab-4462-a0f3-298adc9033ce?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.academy  | available | 54       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/e2754f4c-1e9b-4d7f-9421-82f3f44b68cc?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.academy    | available | 106      | 5%     | 7      |         |         | [Analyse](https://unique.domains/domain/6b896d69-7e01-4ca3-a8a4-21533d235581?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abient.academy     | available | 54       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/254f7875-59ce-4588-b30e-9fdb830d6a57?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abject.academy     | available | 94       | 8%     | 6      |         |         | [Analyse](https://unique.domains/domain/05e6841e-6785-4af4-a55d-a59df63e5645?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.academy     | available | 68       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/53a3429b-de26-4e2a-84c3-60fe874a53f6?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.academy  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/62272253-130e-49be-86ae-927e88f1bf69?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.academy     | available | 82       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/4a6d9a7c-369d-4d7a-87b4-fca42a788986?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.academy  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/92112b64-e659-4169-b8ee-1d22f9a85802?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.academy    | available | 52       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/a8b45d9f-4e5c-42aa-b8b6-6c5166f7884a?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.academy   | available | 68       | 3%     | 8      |         |         | [Analyse](https://unique.domains/domain/44cc70b6-63dd-4d34-820a-7352bc5c370a?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.academy     | available | 72       | 6%     | 6      |         |         | [Analyse](https://unique.domains/domain/47330284-b706-4f79-b3d9-5ce12e626920?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                                  |
+| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| abactinal.academy  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/393e35e6-9710-481e-ab98-f46707cacae1?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abaft.academy      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/227517d4-6b04-4453-91d3-4e12d488767b?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abandoned.academy  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/b1432f77-3f42-406b-84fe-b68bdba009d3?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abashed.academy    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/a54e7061-277e-4318-a626-b5f0147c990e?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abasic.academy     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/c5d58f8f-d715-4a99-80c1-84cba6b9a5cd?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abatable.academy   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/63ac7ef2-c4da-49b9-a71c-b983d8fa1f94?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abatic.academy     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/3867a766-3e53-4643-9b87-48863136d662?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abaxial.academy    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/9be200c5-b684-4567-b1ee-005c0486ffbc?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abbatial.academy   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/664e2f70-89c2-464f-9a3c-d81802195fcb?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abdicable.academy  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/6f24f5cc-cc3a-45a8-9362-16fb725e7159?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abdominal.academy  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/d30f567e-b5b6-462f-9639-1c15804a5b1b?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abdominous.academy | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/296acaaf-ec1b-4b1f-b748-2b3700e37152?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abducens.academy   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/d1788d3e-68ef-4e29-8529-2e2fca66402d?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abducent.academy   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/2ab13659-ca3f-4897-963f-ac17a3930b5d?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abducting.academy  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/249ac43e-68bf-466b-9b71-22933411aeb4?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abenaki.academy    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/2e6c9781-6334-42a8-9efd-accb62476363?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| aberdonian.academy | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/c378b76a-317f-483d-a2d2-937bca1ea5bb?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| aberrant.academy   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/e6b453a5-2c1a-4b47-a73a-de9ac3b9e06d?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abeyant.academy    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/2894f933-13ab-4462-a0f3-298adc9033ce?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abhorrent.academy  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e2754f4c-1e9b-4d7f-9421-82f3f44b68cc?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abiding.academy    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/6b896d69-7e01-4ca3-a8a4-21533d235581?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abient.academy     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/254f7875-59ce-4588-b30e-9fdb830d6a57?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abject.academy     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/05e6841e-6785-4af4-a55d-a59df63e5645?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abkhas.academy     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/53a3429b-de26-4e2a-84c3-60fe874a53f6?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abkhasian.academy  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/62272253-130e-49be-86ae-927e88f1bf69?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abkhaz.academy     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/4a6d9a7c-369d-4d7a-87b4-fca42a788986?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| abkhazian.academy  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/92112b64-e659-4169-b8ee-1d22f9a85802?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| ablated.academy    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/a8b45d9f-4e5c-42aa-b8b6-6c5166f7884a?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| ablative.academy   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/44cc70b6-63dd-4d34-820a-7352bc5c370a?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
+| ablaze.academy     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/47330284-b706-4f79-b3d9-5ce12e626920?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.domain.analyze) |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.84K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.93K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -66,12 +66,24 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 - **Domain Name**: High-quality, single-word .ACADEMY domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
-- **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
+- **Attract.**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
 - **Length**: The word length of the domain (without the TLD)
+- **Registrar**: The registrar of the domain.
 - **Created**: The date the domain was created.
 - **Expires**: The date the domain expires.
-- **Registrar**: The registrar of the domain.
+
+**Online Database**:
+
+- Estimated value (from GoDaddy)
+- Business ideas (from GPT-5 highest version + web search)
+
+SEO analysis (on existing domains)
+- Domain Rating
+- Backlinks
+- Traffic vokume
+- Referring domains
+- Organic keywords
 
 # More One Word Domains
 
@@ -79,18 +91,18 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,429       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 44,507       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,881,227    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,522       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,166       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,936,903    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,085        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,840        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,299        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,259        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,244        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .AC            | 3,176        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,934        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,446        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,402        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,382        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
 | .ADULT         | 3,259        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,131        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,504        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
