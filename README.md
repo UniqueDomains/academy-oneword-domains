@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACADEMY one-word domains still available to buy.
 
-This dataset contains 3,490 .ACADEMY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,492 .ACADEMY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (3,303) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | abaxial.academy    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.academy   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.academy  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.academy  | available | 82       | 2%     | 9      |           |         |         |
+| abdominal.academy  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.academy | available | 56       | 1%     | 10     |           |         |         |
 | abducens.academy   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.academy   | available | 68       | 1%     | 8      |           |         |         |
