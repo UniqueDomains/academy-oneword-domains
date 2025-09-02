@@ -1458,7 +1458,7 @@ f67d2038-fb01-4941-b119-74b33b9973e7,branded.academy,available,72,22,7,,,
 f283bab2-9deb-4ad6-bac3-8ab759d2327c,break.academy,available,82,17,5,,,
 6309f975-07cd-46a7-89ea-a21ec451fc96,breezy.academy,available,76,19,6,,,
 98132d55-aefc-4c1c-93c9-19b143cd38b2,briary.academy,available,48,2,6,,,
-90ed4cc6-d9ef-4585-9aa4-263e891816be,brief.academy,available,124,20,5,,,
+90ed4cc6-d9ef-4585-9aa4-263e891816be,brief.academy,available,124,18,5,,,
 e09d0ce6-e0f2-462a-9ffd-259af2e3429f,briery.academy,available,66,1,6,,,
 6b162436-28ec-435f-82eb-075252f42db2,bright.academy,resell,74,35,6,"Spaceship, Inc.",19/07/2019 09:49,19/07/2026 09:49
 fa11583e-0c91-4051-a716-3eb5b93d54b5,brilliant.academy,resell,96,29,9,"Sav.com, LLC",30/12/2024 17:01,30/12/2025 17:01
@@ -3175,10 +3175,12 @@ f6f732eb-ebef-4bf5-93ef-a399a50d5ad8,sufficient.academy,available,70,5,10,,,
 df5a558f-1e83-459c-bb32-3292c1b30635,sum.academy,available,66,24,3,,,
 6e74d415-349e-4bcd-bc38-f8666f11e6d6,summary.academy,available,71,16,7,,,
 aca7c2b2-999e-4108-be66-6f4c6604acb1,sunbaked.academy,available,50,5,8,,,
-078894d5-7acb-4470-b550-1add99f2c554,sunrise.academy,resell,102,,7,"Sav.com, LLC - 33",16/05/2022 13:15,16/05/2026 13:15
+078894d5-7acb-4470-b550-1add99f2c554,sunrise.academy,resell,102,33,7,"Sav.com, LLC - 33",16/05/2022 13:15,16/05/2026 13:15
+eb647e44-e9d3-4b9d-90a5-3056f9a2b957,sunset.academy,available,98,27,6,,,
 113b026f-b43b-484c-9e7c-bba2204dac7c,super.academy,resell,58,45,5,"Spaceship, Inc.",23/04/2022 13:15,23/04/2026 13:15
 44d49e06-69eb-4239-a1d2-74b22bc2ab7b,superb.academy,available,78,15,6,,,
 2a85122d-11e3-45fd-87c5-3dc6036fedb2,support.academy,resell,112,38,7,Dynadot Inc,25/06/2025 17:00,25/06/2026 17:00
+95a2b416-7119-457f-af87-4e0ad5612063,supported.academy,available,70,,9,,,
 33459c00-76c2-4d9a-9259-22907cab6d91,supporter.academy,available,60,9,9,,,
 b148a201-ac53-4eaf-b693-46eb6501abac,supposed.academy,available,72,3,8,,,
 3b0d0b94-ca28-441d-beec-6d55c1bf1b10,sure.academy,available,110,25,4,,,
