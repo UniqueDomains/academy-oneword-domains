@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACADEMY one-word domains still available to buy.
 
-This dataset contains 3,766 .ACADEMY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,788 .ACADEMY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (3,536) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.77K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.77K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.79K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.79K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.54K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.academy  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.academy      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.academy  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.academy    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.academy     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.academy   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.academy     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.academy    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.academy   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.academy  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.academy  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.academy | available | 56       | 1%     | 10     |           |         |         |
-| abducens.academy   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.academy   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.academy  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.academy    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.academy | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.academy   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.academy    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.academy  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.academy    | available | 106      | 5%     | 7      |           |         |         |
-| abient.academy     | available | 54       | 1%     | 6      |           |         |         |
-| abject.academy     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.academy     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.academy  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.academy     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.academy  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.academy    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.academy   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.academy     | available | 72       | 6%     | 6      |           |         |         |
+| Domain             | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
+| abactinal.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abaft.academy      | available | 43       | 2%     | 5      |                  |                  |                  |
+| abandoned.academy  | available | 58       | 10%    | 9      |                  |                  |                  |
+| abashed.academy    | available | 60       | 2%     | 7      |                  |                  |                  |
+| abasic.academy     | available | 54       | 2%     | 6      |                  |                  |                  |
+| abatable.academy   | available | 54       | 1%     | 8      |                  |                  |                  |
+| abatic.academy     | available | 54       | 2%     | 6      |                  |                  |                  |
+| abaxial.academy    | available | 54       | 2%     | 7      |                  |                  |                  |
+| abbatial.academy   | available | 50       | 1%     | 8      |                  |                  |                  |
+| abc.academy        | resell    | 102      | 41%    | 3      | GoDaddy.com, LLC | 15/07/2015 18:46 | 15/07/2026 18:46 |
+| abdicable.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abdominal.academy  | available | 82       | 1%     | 9      |                  |                  |                  |
+| abdominous.academy | available | 56       | 1%     | 10     |                  |                  |                  |
+| abducens.academy   | available | 54       | 1%     | 8      |                  |                  |                  |
+| abducent.academy   | available | 68       | 1%     | 8      |                  |                  |                  |
+| abducting.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
+| abenaki.academy    | available | 82       | 3%     | 7      |                  |                  |                  |
+| aberdonian.academy | available | 68       | 1%     | 10     |                  |                  |                  |
+| aberrant.academy   | available | 74       | 7%     | 8      |                  |                  |                  |
+| abeyant.academy    | available | 56       | 2%     | 7      |                  |                  |                  |
+| abhorrent.academy  | available | 54       | 1%     | 9      |                  |                  |                  |
+| abiding.academy    | available | 106      | 5%     | 7      |                  |                  |                  |
+| abient.academy     | available | 54       | 1%     | 6      |                  |                  |                  |
+| ability.academy    | available | 92       | 18%    | 7      |                  |                  |                  |
+| abject.academy     | available | 94       | 8%     | 6      |                  |                  |                  |
+| abkhas.academy     | available | 68       | 1%     | 6      |                  |                  |                  |
+| abkhasian.academy  | available | 78       | 1%     | 9      |                  |                  |                  |
+| abkhaz.academy     | available | 82       | 2%     | 6      |                  |                  |                  |
+| abkhazian.academy  | available | 78       | 1%     | 9      |                  |                  |                  |
+| ablated.academy    | available | 52       | 2%     | 7      |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.77K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.77K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.79K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.79K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.54K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
