@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACADEMY one-word domains still available to buy.
 
-This dataset contains 3,640 .ACADEMY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,682 .ACADEMY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (3,536) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.64K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.64K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.68K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.68K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.54K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.64K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.64K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (3.68K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (3.68K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.54K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
