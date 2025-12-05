@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACADEMY one-word domains still available to buy.
 
-This dataset contains 3,921 .ACADEMY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,920 .ACADEMY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (3,921) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | ------------------ | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
 | abactinal.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
 | abaft.academy      | available | 43       | 2%     | 5      |                  |                  |                  |
-| abandoned.academy  | available | 58       | 10%    | 9      |                  |                  |                  |
+| abandoned.academy  | available | 58       | 7%     | 9      |                  |                  |                  |
 | abashed.academy    | available | 60       | 2%     | 7      |                  |                  |                  |
 | abasic.academy     | available | 54       | 2%     | 6      |                  |                  |                  |
 | abatable.academy   | available | 54       | 1%     | 8      |                  |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | abbatial.academy   | available | 50       | 1%     | 8      |                  |                  |                  |
 | abc.academy        | resell    | 102      | 41%    | 3      | GoDaddy.com, LLC | 15/07/2015 18:46 | 15/07/2026 18:46 |
 | abdicable.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
-| abdominal.academy  | available | 82       | 1%     | 9      |                  |                  |                  |
+| abdominal.academy  | available | 82       | 5%     | 9      |                  |                  |                  |
 | abdominous.academy | available | 56       | 1%     | 10     |                  |                  |                  |
 | abducens.academy   | available | 54       | 1%     | 8      |                  |                  |                  |
 | abducent.academy   | available | 68       | 1%     | 8      |                  |                  |                  |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | aberdonian.academy | available | 68       | 1%     | 10     |                  |                  |                  |
 | aberrant.academy   | available | 74       | 7%     | 8      |                  |                  |                  |
 | abeyant.academy    | available | 56       | 2%     | 7      |                  |                  |                  |
-| abhorrent.academy  | available | 54       | 1%     | 9      |                  |                  |                  |
+| abhorrent.academy  | available | 54       | 3%     | 9      |                  |                  |                  |
 | abiding.academy    | available | 106      | 5%     | 7      |                  |                  |                  |
 | abient.academy     | available | 54       | 1%     | 6      |                  |                  |                  |
 | ability.academy    | available | 92       | 18%    | 7      |                  |                  |                  |
