@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACADEMY one-word domains still available to buy.
 
-This dataset contains 7,791 .ACADEMY one word domains with availability, attractiveness and demand scores.
+This dataset contains 7,775 .ACADEMY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACADEMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.top) (7,791) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (7.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (7.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (7.78K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (7.78K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | ------------------ | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
 | abactinal.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
 | abaft.academy      | available | 43       | 2%     | 5      |                  |                  |                  |
-| abandoned.academy  | available | 58       | 7%     | 9      |                  |                  |                  |
+| abandoned.academy  | available | 58       | 12%    | 9      |                  |                  |                  |
 | abashed.academy    | available | 60       | 2%     | 7      |                  |                  |                  |
 | abasic.academy     | available | 54       | 2%     | 6      |                  |                  |                  |
 | abatable.academy   | available | 54       | 1%     | 8      |                  |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | abbatial.academy   | available | 50       | 1%     | 8      |                  |                  |                  |
 | abc.academy        | resell    | 102      | 39%    | 3      | GoDaddy.com, LLC | 15/07/2015 18:46 | 15/07/2026 18:46 |
 | abdicable.academy  | available | 50       | 1%     | 9      |                  |                  |                  |
-| abdominal.academy  | available | 82       | 1%     | 9      |                  |                  |                  |
+| abdominal.academy  | available | 82       | 3%     | 9      |                  |                  |                  |
 | abdominous.academy | available | 56       | 1%     | 10     |                  |                  |                  |
 | abducens.academy   | available | 54       | 1%     | 8      |                  |                  |                  |
 | abducent.academy   | available | 68       | 1%     | 8      |                  |                  |                  |
@@ -41,8 +41,8 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | aberdonian.academy | available | 68       | 1%     | 10     |                  |                  |                  |
 | aberrant.academy   | available | 74       | 7%     | 8      |                  |                  |                  |
 | abeyant.academy    | available | 56       | 2%     | 7      |                  |                  |                  |
-| abhorrent.academy  | available | 54       | 1%     | 9      |                  |                  |                  |
-| abiding.academy    | available | 106      | 5%     | 7      |                  |                  |                  |
+| abhorrent.academy  | available | 54       | 2%     | 9      |                  |                  |                  |
+| abiding.academy    | available | 106      | 7%     | 7      |                  |                  |                  |
 | abient.academy     | available | 54       | 1%     | 6      |                  |                  |                  |
 | ability.academy    | available | 92       | 14%    | 7      |                  |                  |                  |
 | abject.academy     | available | 94       | 8%     | 6      |                  |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/academy-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (7.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (7.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.csv"><b>⬇️ CSV (7.78K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/academy-oneword-domains/blob/main/academy.json"><b>⬇️ JSON (7.78K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,940       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,068       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 31,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,417       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,575,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -171,7 +171,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | .CENTER        | 8,208        | [Github](https://github.com/UniqueDomains/center-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
 | .CEO           | 9,226        | [Github](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
 | .CFD           | 9,549        | [Github](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
-| .CHANNEL       | 0            | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
+| .CHANNEL       | 240          | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
 | .CHARITY       | 9,479        | [Github](https://github.com/UniqueDomains/charity-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
 | .CHAT          | 7,344        | [Github](https://github.com/UniqueDomains/chat-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
 | .CHEAP         | 9,362        | [Github](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
@@ -247,7 +247,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | .DOMAINS       | 8,939        | [Github](https://github.com/UniqueDomains/domains-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
 | .DOWNLOAD      | 9,698        | [Github](https://github.com/UniqueDomains/download-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
 | .EARTH         | 6,419        | [Github](https://github.com/UniqueDomains/earth-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
-| .ECO           | 0            | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
+| .ECO           | 378          | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
 | .EDUCATION     | 8,285        | [Github](https://github.com/UniqueDomains/education-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
 | .EMAIL         | 6,638        | [Github](https://github.com/UniqueDomains/email-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
 | .ENERGY        | 8,363        | [Github](https://github.com/UniqueDomains/energy-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
@@ -366,7 +366,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | .KIDS          | 9,513        | [Github](https://github.com/UniqueDomains/kids-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
-| .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
+| .KIWI          | 399          | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
 | .LA            | 7,906        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
@@ -616,7 +616,7 @@ If you want to search & filters the complete database of [.ACADEMY one word doma
 | .WTF           | 7,715        | [Github](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
 | .XN--3DS443G   | 0            | [Github](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
 | .XN--6FRZ82G   | 0            | [Github](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
-| .XXX           | 0            | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
+| .XXX           | 347          | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
 | .XYZ           | 55,913       | [Github](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
 | .YACHTS        | 9,447        | [Github](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
 | .YOGA          | 9,181        | [Github](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
