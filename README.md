@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C856%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C858%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C854%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .academy one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,856 rows · **Live catalog:** 7,854 domains
+**Public extract:** 7,858 rows · **Live catalog:** 7,854 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/academy`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ACADEMY one-word doma
 
 ### Files
 
-- `academy.csv` — public CSV extract (7,856 rows)
-- `academy.json` — public JSON extract (7,856 rows)
+- `academy.csv` — public CSV extract (7,858 rows)
+- `academy.json` — public JSON extract (7,858 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -71,19 +71,19 @@ print(df.head())
 | boss.academy       | resell    | —         | —             | 76             | 73     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | one.academy        | premium   | $500      | $500          | 132            | 51     | 3      | name.com                                                  |
 | review.academy     | available | $59.98    | —             | 94             | 39     | 6      | namecheap                                                 |
-| wise.academy       | resell    | —         | —             | 98             | 72     | 4      | Unstoppable Domains Inc                                   |
+| wise.academy       | resell    | —         | —             | 98             | 71     | 4      | Unstoppable Domains Inc                                   |
 | big.academy        | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com                                                  |
 | eternal.academy    | available | $21.99    | $62.99        | 92             | 39     | 7      | name.com                                                  |
 | get.academy        | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC                                              |
 | wizard.academy     | premium   | $250      | $250          | 118            | 43     | 6      | name.com                                                  |
 | terminal.academy   | available | $21.99    | $62.99        | 104            | 37     | 8      | name.com                                                  |
 | easy.academy       | resell    | —         | —             | 128            | 68     | 4      | Edomains LLC                                              |
-| elite.academy      | premium   | $500      | $500          | 90             | 43     | 5      | name.com                                                  |
+| elite.academy      | premium   | $500      | $500          | 90             | 42     | 5      | name.com                                                  |
 | check.academy      | available | $21.99    | $62.99        | 76             | 37     | 5      | name.com                                                  |
 | prompt.academy     | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 16                                         |
 | statistics.academy | premium   | $128.70   | $128.70       | 60             | 34     | 10     | namecheap                                                 |
 | resume.academy     | available | $21.99    | $62.99        | 98             | 35     | 6      | name.com                                                  |
-| now.academy        | resell    | —         | —             | 78             | 66     | 3      | Sav.com, LLC                                              |
+| flow.academy       | resell    | —         | —             | 96             | 66     | 4      | Sav.com, LLC - 8                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,856-row public sample | 7,854 live domains                               |
+| 7,858-row public sample | 7,854 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
