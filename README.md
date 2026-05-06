@@ -1,10 +1,10 @@
-# Available .ACADEMY One-Word Domains (10,635)
+# Available .ACADEMY One-Word Domains (10,640)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C635%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C640%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .academy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,635 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,640 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,635 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,640 domains · **Median ask:** $26.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/academy`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,16 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Acup.academy        | available | $59.98    | —             | 80             | 5      | 5      | namecheap        |
+| barup.academy       | available | $21.99    | —             | 82             | 2      | 6      | name.com         |
+| getup.academy       | available | $21.99    | —             | 82             | 14     | 6      | name.com         |
 | matcha.academy      | available | $21.99    | —             | 86             | 39     | 6      | name.com         |
+| QandA.academy       | available | $59.98    | —             | 80             | 10     | 7      | namecheap        |
+| pierogi.academy     | available | $21.99    | —             | 82             | 7      | 7      | name.com         |
+| stirup.academy      | available | $21.99    | —             | 82             | 3      | 7      | name.com         |
+| presents.academy    | available | $21.99    | —             | 80             | 9      | 8      | name.com         |
+| rumcake.academy     | available | $21.99    | —             | 81             | 3      | 8      | name.com         |
+| surebet.academy     | available | $21.99    | —             | 82             | 8      | 8      | name.com         |
 | online.academy      | resell    | —         | —             | 70             | 62     | 7      | Porkbun LLC      |
 | etc.academy         | premium   | $123.75   | —             | 58             | 34     | 3      | name.com         |
 | stories.academy     | available | $21.99    | —             | 58             | 36     | 7      | name.com         |
@@ -75,15 +84,6 @@ print(df.head())
 | coaches.academy     | premium   | $118.80   | $118.80       | 56             | 15     | 7      | namesilo         |
 | photos.academy      | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
 | styling.academy     | resell    | —         | —             | 78             | 11     | 7      | Spaceship, Inc.  |
-| actors.academy      | premium   | $123.75   | —             | 60             | 14     | 6      | name.com         |
-| veterans.academy    | available | $21.99    | —             | 56             | 23     | 8      | name.com         |
-| nurses.academy      | premium   | $242      | $242          | 54             | 13     | 6      | namesilo         |
-| unstoppable.academy | available | $21.99    | —             | 82             | 22     | 11     | name.com         |
-| dancers.academy     | premium   | $118.80   | $118.80       | 64             | 9      | 7      | namesilo         |
-| signs.academy       | available | $21.99    | —             | 64             | 22     | 5      | name.com         |
-| officers.academy    | premium   | $123.75   | —             | 50             | 5      | 8      | name.com         |
-| bubbles.academy     | available | $21.99    | —             | 72             | 21     | 7      | name.com         |
-| comedians.academy   | premium   | $118.80   | $118.80       | 56             | 4      | 9      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,635 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,640 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection focuses only on one-word .academy domains. The extension signals education, training, expertise, or a structured learning offer, so the strongest names are words that can carry that meaning cleanly. Examples such as tips.academy, finals.academy, and matcha.academy show a mix of broad knowledge terms, subject-led terms, and brandable concepts. When comparing these domains, start with whether the word feels credible next to .academy, whether it is easy to say and spell, and whether the ask leaves room for your budget. Singular clarity, memorability, and low confusion usually matter more here than novelty alone.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Best fit: one-word names that pair naturally with learning
+- Median ask across this selection is 26.20
+- Check spelling clarity, recall, and subject credibility
+- Avoid words with obvious trademark or brand conflict risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
