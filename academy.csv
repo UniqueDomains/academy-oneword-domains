@@ -130,6 +130,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c486308-c8ab-4332-aa51-314c34cf3914,getsick.academy,available,21.99,,72,1,8,name.com,,
 0c653bee-d04f-42e8-922c-d59a1109ca8a,fractions.academy,available,21.99,,52,7,9,name.com,,
 0c67d802-0118-42bb-86f8-d7cb2c07274a,commonhippopotamus.academy,available,21.99,,66,1,19,name.com,,
+0c738e38-2819-4619-9708-31c2dc92defb,Snapchat.academy,premium,,,88,23,8,,,
 0c816e26-fcd0-4867-b8cc-2f83b5b477e0,keepdown.academy,available,21.99,,68,1,9,name.com,,
 0ca65f4b-4111-4ae0-859c-90048205ef34,iftruthbetold.academy,available,21.99,,54,1,16,name.com,,
 0cb5b055-d59d-4307-96d2-713bbaf0468d,gostrong.academy,available,21.99,,74,4,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f944064-8564-4a1e-995f-9831a3a2c032,screenshots.academy,available,21.99,,49,9,11,name.com,,
 5fc1dec0-bca3-4be1-8438-c64fe0f288ee,hospitals.academy,available,21.99,,64,10,9,name.com,,
 5fcd23f4-d5ab-4a35-a8b6-c297bc47832d,Acup.academy,available,59.98,,80,5,5,namecheap,,
-5fdb0b01-c47b-46b3-a4be-be1fea59b924,hangonto.academy,available,21.99,,70,1,9,name.com,,
