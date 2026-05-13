@@ -1,10 +1,10 @@
-# Available .ACADEMY One-Word Domains (10,643)
+# Available .ACADEMY One-Word Domains (10,646)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C643%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C646%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .academy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,643 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,643 domains · **Median ask:** $26.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,646 domains · **Median ask:** $26.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/academy`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.academy        | available | $59.98    | —             | 80             | 5      | 5      | namecheap        |
-| barup.academy       | available | $21.99    | —             | 82             | 2      | 6      | name.com         |
-| getup.academy       | available | $21.99    | —             | 82             | 14     | 6      | name.com         |
-| matcha.academy      | available | $21.99    | —             | 86             | 39     | 6      | name.com         |
-| QandA.academy       | available | $59.98    | —             | 80             | 10     | 7      | namecheap        |
-| pierogi.academy     | available | $21.99    | —             | 82             | 7      | 7      | name.com         |
-| stirup.academy      | available | $21.99    | —             | 82             | 3      | 7      | name.com         |
-| presents.academy    | available | $21.99    | —             | 80             | 9      | 8      | name.com         |
-| rumcake.academy     | available | $21.99    | —             | 81             | 3      | 8      | name.com         |
-| surebet.academy     | available | $21.99    | —             | 82             | 8      | 8      | name.com         |
-| online.academy      | resell    | —         | —             | 70             | 62     | 7      | Porkbun LLC      |
-| etc.academy         | premium   | $123.75   | —             | 58             | 34     | 3      | name.com         |
-| stories.academy     | available | $21.99    | —             | 58             | 36     | 7      | name.com         |
-| trading.academy     | resell    | —         | —             | 78             | 35     | 7      | Porkbun LLC      |
-| mathematics.academy | premium   | $250      | —             | 68             | 19     | 11     | name.com         |
-| cams.academy        | available | $21.99    | —             | 52             | 29     | 4      | name.com         |
-| toys.academy        | resell    | —         | —             | 60             | 24     | 4      | GoDaddy.com, LLC |
-| coaches.academy     | premium   | $118.80   | $118.80       | 56             | 15     | 7      | namesilo         |
-| photos.academy      | available | $21.99    | —             | 54             | 28     | 6      | name.com         |
-| styling.academy     | resell    | —         | —             | 78             | 11     | 7      | Spaceship, Inc.  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| barup.academy       | available | $21.99    | —             | 82             | 2      | 6      | name.com          |
+| getup.academy       | available | $21.99    | —             | 82             | 14     | 6      | name.com          |
+| matcha.academy      | available | $21.99    | —             | 86             | 39     | 6      | name.com          |
+| QandA.academy       | available | $59.98    | —             | 80             | 10     | 7      | namecheap         |
+| pierogi.academy     | available | $21.99    | —             | 82             | 7      | 7      | name.com          |
+| stirup.academy      | available | $21.99    | —             | 82             | 3      | 7      | name.com          |
+| presents.academy    | available | $21.99    | —             | 80             | 9      | 8      | name.com          |
+| rumcake.academy     | available | $21.99    | —             | 81             | 3      | 8      | name.com          |
+| surebet.academy     | available | $21.99    | —             | 82             | 8      | 8      | name.com          |
+| online.academy      | resell    | —         | —             | 70             | 62     | 7      | Porkbun LLC       |
+| etc.academy         | premium   | $123.75   | —             | 58             | 34     | 3      | name.com          |
+| stories.academy     | available | $21.99    | —             | 58             | 36     | 7      | name.com          |
+| trading.academy     | resell    | —         | —             | 78             | 35     | 7      | Porkbun LLC       |
+| mathematics.academy | premium   | $250      | —             | 68             | 19     | 11     | name.com          |
+| cams.academy        | available | $21.99    | —             | 52             | 29     | 4      | name.com          |
+| Points.academy      | resell    | —         | —             | 64             | 28     | 6      | Sav.com, LLC - 39 |
+| coaches.academy     | premium   | $118.80   | $118.80       | 56             | 15     | 7      | namesilo          |
+| photos.academy      | available | $21.99    | —             | 54             | 28     | 6      | name.com          |
+| toys.academy        | resell    | —         | —             | 60             | 24     | 4      | GoDaddy.com, LLC  |
+| actors.academy      | premium   | $123.75   | —             | 60             | 14     | 6      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,643 live domains                        |
+| 1,000-row public sample | 10,646 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

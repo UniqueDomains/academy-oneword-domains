@@ -457,6 +457,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a18a51e-afb3-46a0-a261-a1f12c577c4c,proteins.academy,available,21.99,,52,8,8,name.com,,
 2a1b1405-e0da-4e45-af71-369e6f825969,motorsports.academy,available,21.99,,74,13,11,name.com,,
 2a64a8e9-0b89-4784-b883-fc3bb3de880b,turninto.academy,available,21.99,,86,2,9,name.com,,
+2a9eb19e-069b-43bb-9528-9ec053edb23b,NYT.academy,available,21.99,,74,14,3,name.com,,
 2ab74e5d-8367-4ac0-994f-955eaa7bea70,relics.academy,available,21.99,,52,7,6,name.com,,
 2ab8042d-54be-4702-96c2-c4e9a25ad155,inthesameboat.academy,available,21.99,,48,2,16,name.com,,
 2ac82895-f00a-4654-bd22-57aeb08c9624,officedoor.academy,available,21.99,,55,1,11,name.com,,
@@ -619,6 +620,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3a197f97-0c38-4663-8425-24ca8f6d32d2,noticable.academy,available,21.99,,52,1,9,name.com,,
 3a63a560-a6a7-485d-b979-ecee3129f461,dryers.academy,available,21.99,,54,5,6,name.com,,
 3a94b3aa-316f-4103-a8d8-7914b5c35107,manyhappies.academy,available,21.99,,72,1,12,name.com,,
+3aae67e5-0c2e-45d2-803c-30cab0ca85ed,Points.academy,resell,,,64,28,6,"Sav.com, LLC - 39",05/05/2026 15:15,05/05/2027 15:15
 3ab7572a-595b-4ce6-b65d-082a2e52bb72,generalstores.academy,available,21.99,,50,2,14,name.com,,
 3ab76c2f-3687-4db0-9bfb-0c2c652aafe7,trucks.academy,available,21.99,,55,19,6,name.com,,
 3ae23581-ce31-4c33-ac32-1e73919c54fd,washes.academy,available,21.99,,54,3,6,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f2df1b0-f2a8-4eb2-bf2b-81e70e412b45,gowalking.academy,available,21.99,,50,2,10,name.com,,
 5f634cfc-ebea-4548-bd92-43907907a47c,surveys.academy,available,21.99,,56,15,7,name.com,,
 5f944064-8564-4a1e-995f-9831a3a2c032,screenshots.academy,available,21.99,,49,9,11,name.com,,
-5fc1dec0-bca3-4be1-8438-c64fe0f288ee,hospitals.academy,available,21.99,,64,10,9,name.com,,
-5fcd23f4-d5ab-4a35-a8b6-c297bc47832d,Acup.academy,available,59.98,,80,5,5,namecheap,,
