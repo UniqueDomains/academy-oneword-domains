@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .academy one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,645 domains · **Median ask:** $26.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/academy`  
 **Best for:** founders, investors, studios
 
@@ -65,14 +65,14 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | barup.academy       | available | $21.99    | —             | 82             | 2      | 6      | name.com          |
-| getup.academy       | available | $21.99    | —             | 82             | 14     | 6      | name.com          |
+| getup.academy       | available | $21.99    | —             | 82             | 15     | 6      | name.com          |
 | matcha.academy      | available | $21.99    | —             | 86             | 39     | 6      | name.com          |
 | QandA.academy       | available | $59.98    | —             | 80             | 10     | 7      | namecheap         |
 | pierogi.academy     | available | $21.99    | —             | 82             | 7      | 7      | name.com          |
 | stirup.academy      | available | $21.99    | —             | 82             | 3      | 7      | name.com          |
 | presents.academy    | available | $21.99    | —             | 80             | 9      | 8      | name.com          |
 | rumcake.academy     | available | $21.99    | —             | 81             | 3      | 8      | name.com          |
-| surebet.academy     | available | $21.99    | —             | 82             | 8      | 8      | name.com          |
+| surebet.academy     | available | $21.99    | —             | 82             | 7      | 8      | name.com          |
 | online.academy      | resell    | —         | —             | 70             | 62     | 7      | Porkbun LLC       |
 | etc.academy         | premium   | $123.75   | —             | 58             | 34     | 3      | name.com          |
 | stories.academy     | available | $21.99    | —             | 58             | 36     | 7      | name.com          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
