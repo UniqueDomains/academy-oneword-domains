@@ -1,10 +1,10 @@
-# Available .ACADEMY One-Word Domains (10,646)
+# Available .ACADEMY One-Word Domains (10,658)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C646%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C658%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .academy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,646 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,658 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,646 domains · **Median ask:** $27.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,658 domains · **Median ask:** $24.49 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/academy`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/academy`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ACADEMY one-word doma
 
 ### Files
 
-- `academy.csv` — public CSV extract (1,000 rows)
-- `academy.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `academy.csv`, public CSV extract (1,000 rows)
+- `academy.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| examine.academy        | available | $21.99    | —             | 92             | 10     | 7      | name.com                                                  |
-| nationalanthem.academy | available | $21.99    | —             | 82             | 2      | 15     | name.com                                                  |
-| overall.academy        | available | $21.99    | —             | 96             | 11     | 7      | name.com                                                  |
-| spray.academy          | available | $21.99    | —             | 98             | 19     | 5      | name.com                                                  |
-| prickly.academy        | premium   | —         | —             | 80             | 5      | 7      | —                                                         |
-| coefficient.academy    | available | $21.99    | —             | 90             | 13     | 11     | name.com                                                  |
-| arabic.academy         | available | $21.99    | —             | 96             | 19     | 6      | name.com                                                  |
-| day.academy            | premium   | $242      | $242          | 82             | 34     | 3      | namesilo                                                  |
-| jacket.academy         | available | $21.99    | —             | 94             | 10     | 6      | name.com                                                  |
-| period.academy         | available | $21.99    | —             | 128            | 15     | 6      | name.com                                                  |
-| brown.academy          | premium   | $118.80   | $118.80       | 98             | 30     | 5      | namesilo                                                  |
-| baking.academy         | resell    | —         | —             | 92             | 10     | 6      | NameCheap, Inc.                                           |
-| focus.academy          | resell    | —         | —             | 102            | 43     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| shining.academy        | available | $21.99    | —             | 88             | 14     | 7      | name.com                                                  |
-| intricate.academy      | available | $21.99    | —             | 89             | 10     | 9      | name.com                                                  |
-| abdominal.academy      | available | $21.99    | $62.99        | 82             | 3      | 9      | name.com                                                  |
-| pepsicola.academy      | available | $21.99    | —             | 82             | 6      | 10     | name.com                                                  |
-| stray.academy          | available | $21.99    | —             | 102            | 21     | 5      | name.com                                                  |
-| marines.academy        | premium   | $3,750    | —             | 82             | 9      | 7      | name.com                                                  |
-| audible.academy        | premium   | —         | —             | 112            | 98     | 7      | —                                                         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| lap.academy  | available | $21.99    | —             | high           | low    | 3      | name.com            |
+| bit.academy  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
+| day.academy  | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| lii.academy  | available | $8.48     | $59.98        | low            | low    | 3      | namecheap           |
+| gas.academy  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC    |
+| ego.academy  | premium   | $242      | $242          | medium         | low    | 3      | namesilo            |
+| xci.academy  | available | $8.48     | $59.98        | low            | low    | 3      | namecheap           |
+| sup.academy  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 5    |
+| fee.academy  | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| xii.academy  | available | $21.99    | $62.99        | medium         | low    | 3      | name.com            |
+| top.academy  | resell    | —         | —             | high           | medium | 3      | united-domains GmbH |
+| hey.academy  | premium   | $500      | —             | medium         | medium | 3      | name.com            |
+| aids.academy | available | $21.99    | —             | medium         | low    | 4      | name.com            |
+| web.academy  | resell    | —         | —             | high           | medium | 3      | InterNetX GmbH      |
+| lip.academy  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
+| alky.academy | available | $8.48     | $59.98        | low            | low    | 4      | namecheap           |
+| boom.academy | resell    | —         | —             | high           | medium | 4      | Automattic Inc.     |
+| opt.academy  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
+| babe.academy | available | $21.99    | —             | high           | low    | 4      | name.com            |
+| foot.academy | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,646 live domains                        |
+| 1,000-row public sample | 10,658 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word .academy domains. The extension signals education, training, expertise, or a structured learning offer, so the strongest names are words that can carry that meaning cleanly. Examples such as tips.academy, finals.academy, and matcha.academy show a mix of broad knowledge terms, subject-led terms, and brandable concepts. When comparing these domains, start with whether the word feels credible next to .academy, whether it is easy to say and spell, and whether the ask leaves room for your budget. Singular clarity, memorability, and low confusion usually matter more here than novelty alone.
+This list of one-word .academy domains includes 10,658 names ranging from everyday nouns like "motors" and "phone" to phrase-style options like "givingbirth" and "gettogether." Most are available now at a median ask near $25, with a small share marked premium or resale. Whether you're comparing cost and renewal for a shortlist or scanning for undervalued names with wider margins, this set is refreshed daily so pricing and status stay current.
 
-- Best fit: one-word names that pair naturally with learning
-- Median ask across this selection is 26.20
-- Check spelling clarity, recall, and subject credibility
-- Avoid words with obvious trademark or brand conflict risk
+- 10,658 available one-word .academy domains, updated daily
+- Median ask near $25; most list under $500
+- 200 premium-status names among 10,658 listings
+- Everyday nouns like motors, find, and phone lead the list
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
