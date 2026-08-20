@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .academy one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,270 domains · **Median ask:** $19.02 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/academy`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| correct.academy | available | $21.99    | $62.99        | high           | low    | 7      | name.com            |
-| hello.academy   | available | —         | —             | high           | low    | 5      | —                   |
-| room.academy    | available | $21.99    | —             | high           | low    | 4      | name.com            |
-| period.academy  | available | $21.99    | —             | high           | low    | 6      | name.com            |
-| lap.academy     | available | $21.99    | —             | high           | low    | 3      | name.com            |
-| bit.academy     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
-| day.academy     | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
-| lii.academy     | available | $8.48     | $59.98        | low            | low    | 3      | namecheap           |
-| gas.academy     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC    |
-| ego.academy     | premium   | $242      | $242          | medium         | low    | 3      | namesilo            |
-| xci.academy     | available | $8.48     | $59.98        | low            | low    | 3      | namecheap           |
-| sup.academy     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 5    |
-| fee.academy     | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
-| xii.academy     | available | $21.99    | $62.99        | medium         | low    | 3      | name.com            |
-| top.academy     | resell    | —         | —             | high           | medium | 3      | united-domains GmbH |
-| hey.academy     | premium   | $500      | —             | medium         | medium | 3      | name.com            |
-| aids.academy    | available | $21.99    | —             | medium         | low    | 4      | name.com            |
-| web.academy     | resell    | —         | —             | high           | medium | 3      | InterNetX GmbH      |
-| lip.academy     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
-| alky.academy    | available | $8.48     | $59.98        | low            | low    | 4      | namecheap           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| lap.academy  | available | $21.99    | —             | high           | low    | 3      | name.com            |
+| bit.academy  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
+| day.academy  | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| lii.academy  | available | $8.48     | $59.98        | low            | low    | 3      | namecheap           |
+| gas.academy  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC    |
+| ego.academy  | premium   | $242      | $242          | medium         | low    | 3      | namesilo            |
+| xci.academy  | available | $8.48     | $59.98        | low            | low    | 3      | namecheap           |
+| sup.academy  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 5    |
+| fee.academy  | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| xii.academy  | available | $21.99    | $62.99        | medium         | low    | 3      | name.com            |
+| top.academy  | resell    | —         | —             | high           | medium | 3      | united-domains GmbH |
+| hey.academy  | premium   | $500      | —             | medium         | medium | 3      | name.com            |
+| aids.academy | available | $21.99    | —             | medium         | low    | 4      | name.com            |
+| web.academy  | resell    | —         | —             | high           | medium | 3      | InterNetX GmbH      |
+| lip.academy  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
+| alky.academy | available | $8.48     | $59.98        | low            | low    | 4      | namecheap           |
+| boom.academy | resell    | —         | —             | high           | medium | 4      | Automattic Inc.     |
+| opt.academy  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo            |
+| babe.academy | available | $21.99    | —             | high           | low    | 4      | name.com            |
+| foot.academy | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
