@@ -1,10 +1,10 @@
-# Available .ACADEMY One-Word Domains (23,725)
+# Available .ACADEMY One-Word Domains (25,831)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C725%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C831%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .academy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,725 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,831 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,725 domains · **Median ask:** $17.08 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 25,831 domains · **Median ask:** $16.92 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/academy`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
 | azo.academy    | available | $8.48     | $59.98        | high           | low    | 3      | namecheap               |
 | abc.academy    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC        |
-| ado.academy    | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap               |
+| few.academy    | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap               |
 | bja.academy    | available | $17.99    | $46.99        | medium         | low    | 3      | namesilo                |
 | body.academy   | resell    | —         | —             | high           | low    | 4      | Unstoppable Domains Inc |
-| few.academy    | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap               |
+| hug.academy    | premium   | $99.50    | —             | high           | low    | 3      | unstoppable             |
 | eeg.academy    | available | $7.45     | $37.46        | high           | low    | 3      | spaceship               |
 | loss.academy   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC        |
-| gay.academy    | premium   | $260      | $260          | high           | medium | 3      | namecheap               |
-| fog.academy    | available | $17.99    | $46.99        | high           | low    | 3      | namesilo                |
-| motor.academy  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 44       |
-| hug.academy    | premium   | $99.50    | —             | high           | low    | 3      | unstoppable             |
-| hui.academy    | available | $17.99    | $46.99        | high           | low    | 3      | namesilo                |
-| salsa.academy  | resell    | —         | —             | high           | low    | 5      | —                       |
 | low.academy    | premium   | $242      | $242          | high           | low    | 3      | namesilo                |
-| koh.academy    | available | $17       | —             | medium         | low    | 3      | unstoppable             |
-| super.academy  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.         |
+| erc.academy    | available | $8.48     | $59.98        | high           | low    | 3      | namecheap               |
+| motor.academy  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 44       |
 | mix.academy    | premium   | $102.67   | $102.67       | high           | medium | 3      | spaceship               |
-| liz.academy    | available | $17.99    | $46.99        | high           | low    | 3      | namesilo                |
+| fdp.academy    | available | $7.45     | $37.46        | medium         | low    | 3      | spaceship               |
+| salsa.academy  | resell    | —         | —             | high           | low    | 5      | —                       |
+| nor.academy    | premium   | $99.50    | —             | high           | low    | 3      | unstoppable             |
+| fog.academy    | available | $17.99    | $46.99        | high           | low    | 3      | namesilo                |
 | advert.academy | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC        |
+| png.academy    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                |
+| hui.academy    | available | $17.99    | $46.99        | high           | low    | 3      | namesilo                |
+| europe.academy | resell    | —         | —             | high           | medium | 6      | Automattic Inc.         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,725 live domains                        |
+| 1,000-row public sample | 25,831 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACADEMY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
