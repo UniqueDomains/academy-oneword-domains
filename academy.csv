@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+8acfe409-b5d9-47f4-8066-0a410f365974,coen.academy,available,36.2,36.2,medium,low,4,cloudflare,,,03/10/2026 06:03
 3bcc6210-f81e-46df-b90e-178121a08520,beatrix.academy,available,17,,medium,low,7,unstoppable,,,30/09/2026 21:15
 705ad426-cede-4493-8488-4fcf8a2b9c9b,accomplice.academy,available,17.99,46.99,high,low,10,namesilo,,,16/09/2026 22:50
 d96b23a1-90f3-42d4-93fe-020f3ef94fbb,ultimatum.academy,available,7.45,37.46,high,low,9,spaceship,,,30/09/2026 11:14
@@ -18,6 +19,7 @@ d5f53bdc-3681-44d4-9114-92999c8fb9d3,leukaemia.academy,available,17.99,46.99,med
 5c59e3a7-b24b-47b4-9b72-a612ee16a2e9,gentleman.academy,available,17.99,46.99,high,low,9,namesilo,,,25/09/2026 06:26
 4813b4d8-14e8-4084-8580-03407283dfe5,confirms.academy,available,17.99,46.99,medium,low,8,namesilo,,,29/09/2026 05:49
 e02162f0-bca3-430c-8dfe-ecd6fe95965e,cytolytic.academy,available,21.99,62.99,medium,low,9,name.com,,,13/08/2026 14:42
+720e9823-34e2-4367-8f00-19b5495cd2f0,comparisons.academy,available,17,,medium,low,11,unstoppable,,,02/10/2026 12:56
 fe470815-60c7-423e-a3a4-f6e722a8f3c0,mildly.academy,available,8.48,59.98,medium,low,6,namecheap,,,15/09/2026 14:43
 dd97dacc-16ba-48c0-b0bb-459d2bebf9c1,sinusoidal.academy,available,8.48,59.98,high,low,10,namecheap,,,10/09/2026 08:42
 eaf766b5-9e32-4d90-b152-f0a542f9d443,airless.academy,available,8.48,59.98,medium,low,7,namecheap,,,
@@ -26,6 +28,7 @@ eaf766b5-9e32-4d90-b152-f0a542f9d443,airless.academy,available,8.48,59.98,medium
 f0e153e2-521e-4ed9-9895-82c19a39a94c,seldom.academy,available,8.48,59.98,medium,low,6,namecheap,,,15/09/2026 22:34
 e48d5733-8623-4fb8-8653-35c9a5951e0c,blossoming.academy,available,8.48,59.98,high,low,10,namecheap,,,18/08/2026 09:04
 fd87467e-5ea9-4d36-9252-c89073a1c6b9,speedy.academy,premium,260,260,high,low,6,namecheap,,,09/09/2026 08:40
+d19dedc5-720c-4d28-9874-247b0ff7af5c,cleland.academy,available,17,,medium,low,7,unstoppable,,,02/10/2026 09:56
 e4b468a2-5d81-4cb0-af22-d94578014a68,bja.academy,available,17.99,46.99,medium,low,3,namesilo,,,23/09/2026 23:24
 9a6f23f1-6137-40ac-9ae6-36d6b99df27c,motor.academy,resell,,,high,low,5,"Sav.com, LLC - 44",08/09/2025 15:15,08/09/2027 15:15,26/09/2026 07:39
 f4ad129e-2032-42c3-996e-40eeb48ce380,wormy.academy,available,8.48,59.98,medium,low,5,namecheap,,,13/08/2026 06:43
@@ -38,14 +41,17 @@ e2931eb7-9c63-4a63-932e-c87294941fbc,olfactory.academy,available,8.48,59.98,medi
 7f629696-a1d5-41fb-86f3-8812b11d31a2,exacting.academy,available,8.48,59.98,high,low,8,namecheap,,,17/08/2026 15:32
 a9b92017-9e42-40a4-b01e-6d7c27e9c981,devoured.academy,available,17.99,46.99,low,low,8,namesilo,,,19/09/2026 23:51
 6e58fcf6-e6f9-4301-9daa-d475afb0a35c,parsimony.academy,available,8.48,59.98,medium,low,9,namecheap,,,08/09/2026 14:39
+93111a53-5cff-4699-ae63-d7f4311a4345,shostakovich.academy,available,8.48,59.98,medium,low,12,namecheap,,,02/10/2026 10:47
 4db079e3-69b3-4eee-a26e-06b3760a684d,margin.academy,resell,,,high,low,6,,,,29/09/2026 01:09
 09775366-ff86-47ca-8361-34c6583b2ae4,honduran.academy,available,8.48,59.98,medium,low,8,namecheap,,,21/08/2026 13:17
 0550ae8d-6322-46be-9ccf-596a15fb84ee,xxi.academy,available,8.48,59.98,high,low,3,namecheap,,,21/09/2026 12:32
 fb07e4bc-f9a9-4851-b052-d3a4b34c9f41,clastic.academy,available,8.48,59.98,medium,low,7,namecheap,,,12/08/2026 09:56
 c4b4bf40-91e9-4db1-a692-693fbe295f3c,emulous.academy,available,8.48,59.98,medium,low,7,namecheap,,,16/08/2026 21:03
+1150297a-6356-4a1e-a4b8-edb157b8468a,southwell.academy,available,7.45,37.46,medium,low,9,spaceship,,,02/10/2026 10:29
 2109082c-ae31-4779-a6cc-4e1c657dbf27,servants.academy,available,17.99,46.99,medium,low,8,namesilo,,,18/09/2026 01:39
 8cf0aa86-fdd4-4189-9c38-8fb009e87004,glittering.academy,available,8.48,59.98,high,low,10,namecheap,,,
 610657b7-0bed-48a6-bd25-f848acfd45c5,mccoy.academy,available,7.45,37.46,high,low,5,spaceship,,,27/09/2026 21:17
+96acc181-fc24-46d2-aac4-09c6a8cfbc2b,watercraft.academy,available,36.2,36.2,high,low,10,cloudflare,,,02/10/2026 17:08
 10fdf2a6-d848-4f34-a61a-8789726b2c71,apodemus.academy,available,8.48,59.98,medium,low,8,namecheap,,,19/09/2026 18:19
 71e5d856-1afc-4086-8ea3-8b4a923f2333,factories.academy,available,17.99,46.99,medium,low,9,namesilo,,,20/09/2026 05:09
 72c9a5bc-a643-47ce-8557-843b142571a9,uninspired.academy,available,8.48,59.98,medium,low,10,namecheap,,,12/09/2026 13:05
@@ -54,16 +60,18 @@ e2484145-6309-44cf-9e38-acabd5c3c00e,catty.academy,available,8.48,59.98,medium,l
 e9dc8322-75d8-4ab6-bd25-f7e9a98b0e41,obscenely.academy,available,8.48,59.98,medium,low,9,namecheap,,,15/09/2026 11:14
 43de52f5-7b25-496e-a203-fc06832a9aed,unions.academy,available,7.45,37.46,medium,low,6,spaceship,,,30/09/2026 00:35
 56e69534-c3c9-4884-bc92-e4f46796e4cd,deposed.academy,available,7.45,37.46,low,low,7,spaceship,,,02/10/2026 03:36
-37054cff-7614-4f31-ab6b-27115ac2d9c3,permutation.academy,available,21.99,,high,low,11,name.com,,,
+37054cff-7614-4f31-ab6b-27115ac2d9c3,permutation.academy,available,17.99,46.99,high,low,11,namesilo,,,02/10/2026 16:56
 1c904dcc-097f-4660-a3de-34a9aa52846a,prairie.academy,available,7.45,37.46,high,low,7,spaceship,,,30/09/2026 07:12
 8b206bdb-2059-4526-b520-b7cd75bccff6,australian.academy,premium,118.8,118.8,high,low,10,namesilo,,,22/09/2026 13:30
 c2aead27-349d-4faf-8905-8d043e2f8746,backstay.academy,available,17.99,46.99,medium,low,8,namesilo,,,21/09/2026 16:03
 302518b5-217b-41c7-8b89-844ae51c5982,gallium.academy,available,8.48,59.98,medium,low,7,namecheap,,,20/09/2026 22:50
+f95c90aa-993f-48c1-94d9-344755fb45e6,folger.academy,available,17,,medium,low,6,unstoppable,,,02/10/2026 09:53
 99d6c501-6b5e-46c7-b095-501c62d1d8a3,reliever.academy,available,8.48,59.98,high,low,8,namecheap,,,18/09/2026 10:02
 a0333551-d0b8-49bc-9f97-811ddcbcab37,decline.academy,available,17.99,46.99,medium,low,7,namesilo,,,28/09/2026 13:52
 40ab7651-c464-4d47-a448-683e8bddac6f,shouter.academy,available,17.99,46.99,medium,low,7,namesilo,,,22/09/2026 17:05
 d699c9fa-17f5-4541-aead-548d05be7775,borough.academy,available,11.99,38.74,medium,low,7,dynadot,,,01/10/2026 01:09
 d02d165f-ef33-4eff-a851-de671bfed22c,duvall.academy,available,7.45,37.46,medium,low,6,spaceship,,,30/09/2026 05:34
+644fd5de-ec35-40d7-accc-b96ad0703fb0,dramas.academy,available,17.99,46.99,medium,low,6,namesilo,,,02/10/2026 13:47
 971f51d4-d321-4b44-8d6c-b2142f1178aa,gusts.academy,available,17.99,46.99,medium,low,5,namesilo,,,20/09/2026 20:54
 0fcb56c5-edf1-4866-ac7d-70f384ee5e55,improvised.academy,available,8.48,59.98,medium,low,10,namecheap,,,21/08/2026 23:19
 10cb4643-ffc3-44e1-b56a-bd26bff64b69,unsullied.academy,available,8.48,59.98,medium,low,9,namecheap,,,10/09/2026 18:19
@@ -88,6 +96,7 @@ f27a5e49-6d35-4871-9c03-bc817e789f3a,pompon.academy,available,17.99,46.99,medium
 3510a795-63c6-4ecc-87cc-d3d831dbef24,felonious.academy,available,8.48,59.98,medium,low,9,namecheap,,,18/08/2026 00:58
 06e0a392-93a6-41d2-b0f1-0a24f05a07b6,rubus.academy,available,17,,high,low,5,unstoppable,,,02/10/2026 05:02
 2140b5a2-8d0d-4d93-9509-489ae1dc6c83,laptops.academy,available,17.99,46.99,medium,low,7,namesilo,,,20/09/2026 12:33
+4901c7b3-8d84-4574-a6f1-ea1984e9d881,telegrams.academy,available,7.45,37.46,medium,low,9,spaceship,,,02/10/2026 23:13
 d77b0ffe-4a6d-40f7-b94f-eb33daaed1be,accidental.academy,available,8.48,59.98,high,low,10,namecheap,,,
 f5275102-23c0-41d0-b868-eb70e1e793c8,peshawar.academy,available,36.2,36.2,medium,low,8,cloudflare,,,29/09/2026 19:57
 e8bf4642-7f3f-4c96-812f-a663e10b5afb,heather.academy,premium,200.5,,high,low,7,unstoppable,,,28/09/2026 05:22
@@ -102,7 +111,7 @@ ad63dd5f-430c-4e1b-99fa-a7fcadfebb6f,achievable.academy,available,8.48,59.98,hig
 6bc509b9-59f1-4aa9-a9cf-bed7bcfae8ca,galvanic.academy,available,8.48,59.98,medium,low,8,namecheap,,,18/08/2026 19:44
 80edb06b-13e3-4ac6-8024-6ba33aafcf65,eroding.academy,available,8.48,59.98,medium,low,7,namecheap,,,13/09/2026 09:08
 bb2a0428-f978-49f2-a068-ae6e2c173b5e,hairs.academy,available,11.84,37.59,medium,low,5,porkbun,,,28/09/2026 08:42
-1fb3194a-bdb7-421c-9c34-010916d11ced,elias.academy,available,21.99,,high,low,5,name.com,,,
+1fb3194a-bdb7-421c-9c34-010916d11ced,elias.academy,available,11.99,38.74,high,low,5,dynadot,,,02/10/2026 09:55
 7fc82c55-9bf4-4f42-adfd-e57893bcda7c,alprazolam.academy,available,17.99,46.99,medium,low,10,namesilo,,,18/09/2026 14:08
 8a6b1a01-a64a-4314-a7a9-8b859d5d2fd0,queasy.academy,available,8.48,59.98,medium,low,6,namecheap,,,24/08/2026 08:26
 ae9f0e87-2ba4-4686-9a9f-3f94e3a86af0,barely.academy,available,36.2,36.2,medium,low,6,cloudflare,,,27/09/2026 18:14
@@ -112,6 +121,7 @@ a2bf9671-2db2-4ae3-a2e2-c7be001ba190,salts.academy,available,17.99,46.99,medium,
 2ffc446e-f4e6-4043-99a7-733ae5e05359,metallic.academy,available,8.48,59.98,high,low,8,namecheap,,,24/08/2026 21:34
 1ef9ed18-79ca-4572-9c70-7d75a0324fd4,freedoms.academy,available,7.45,37.46,medium,low,8,spaceship,,,30/09/2026 16:22
 865ad692-5a9d-4438-8783-d42a6a40852f,altace.academy,available,17.99,46.99,medium,low,6,namesilo,,,18/09/2026 14:31
+64508fc9-e082-4577-b60a-28dce0243123,milly.academy,available,36.2,36.2,medium,low,5,cloudflare,,,03/10/2026 04:53
 1df56a4a-7507-4f7c-95e2-44737d48cab6,symptoms.academy,available,17.99,46.99,medium,low,8,namesilo,,,27/09/2026 22:08
 2bd28aaf-5d12-41d9-a74d-5f4d92b6475d,tiddly.academy,available,8.48,59.98,medium,low,6,namecheap,,,11/09/2026 15:36
 c685f07a-8574-4c8a-b80f-a439db976510,unleavened.academy,available,8.48,59.98,medium,low,10,namecheap,,,12/09/2026 14:46
@@ -119,12 +129,12 @@ c685f07a-8574-4c8a-b80f-a439db976510,unleavened.academy,available,8.48,59.98,med
 dee92959-2e8c-41b9-a427-0cd6c8400d53,tendon.academy,available,8.48,59.98,high,low,6,namecheap,,,01/10/2026 21:42
 a33d731e-5c30-48a6-aad8-47d91b1b4f19,blackseed.academy,available,17.99,46.99,medium,low,9,namesilo,,,24/09/2026 03:00
 0f39e950-3b74-4d3e-be2d-58cc3cd3d8b4,suckers.academy,available,17.99,46.99,medium,low,7,namesilo,,,30/09/2026 16:06
+096507f3-8f56-4a0f-abfe-0f90518bcc79,schoolteacher.academy,available,11.99,38.74,high,low,13,dynadot,,,02/10/2026 18:19
 48e84a96-f154-4150-ac33-9940738bc992,topping.academy,available,8.48,59.98,medium,low,7,namecheap,,,11/09/2026 17:36
 9a074904-c069-469a-a43f-2c6dc3ba5224,confessed.academy,available,17.99,46.99,medium,low,9,namesilo,,,28/09/2026 04:56
 62c9395f-2d47-4263-ac73-3b422ffad234,geniculate.academy,available,8.48,59.98,medium,low,10,namecheap,,,18/08/2026 21:38
 e9fc4389-1dc9-4693-8a2c-1d13007e25d8,unclogged.academy,available,8.48,59.98,medium,low,9,namecheap,,,12/09/2026 05:28
 3357947f-4479-4bc1-901d-a67f97385df0,supervise.academy,available,17,,high,low,9,unstoppable,,,30/09/2026 05:05
-6466b309-403c-458e-9041-c2ac5326a176,hbo.academy,available,,,high,medium,3,,,,
 c411ca89-81f2-4dc3-a2a0-701761382e1a,lent.academy,available,17,,high,low,4,unstoppable,,,28/09/2026 14:42
 ef6663bc-3393-4888-bde5-d37895394ede,livable.academy,available,8.48,59.98,high,low,7,namecheap,,,24/08/2026 07:42
 d962cd5f-1b23-419e-876f-01ac26e71880,kharkov.academy,available,17,,high,low,7,unstoppable,,,30/09/2026 17:47
@@ -137,6 +147,7 @@ d89b16d8-c56f-47ac-8715-e20a288a0046,offence.academy,available,8.48,59.98,medium
 bfb6c625-11a1-4774-b308-7ddda03b0be9,constantly.academy,available,17,,medium,low,10,unstoppable,,,28/09/2026 14:18
 b2b9bb1e-708f-4f16-991e-b618f3e050ec,blither.academy,available,17.99,46.99,medium,low,7,namesilo,,,24/09/2026 04:54
 8b307980-b19c-46ba-8079-fbb75c9a2bc4,untroubled.academy,available,8.48,59.98,medium,low,10,namecheap,,,10/09/2026 01:30
+a1fa9e4c-875e-4602-8d4b-5d255d745d64,shootout.academy,available,7.45,37.46,medium,low,8,spaceship,,,03/10/2026 01:04
 00666606-389f-426f-b988-420c10ae782d,coles.academy,available,17.99,46.99,medium,low,5,namesilo,,,02/10/2026 01:35
 6458892d-8b28-4dfd-8e22-d528f3d8137d,bolted.academy,available,17.99,46.99,medium,low,6,namesilo,,,01/10/2026 16:08
 83cfcc8a-499e-4521-90fe-6c9639128206,estes.academy,available,7.45,37.46,medium,low,5,spaceship,,,28/09/2026 22:16
@@ -149,6 +160,7 @@ ace20a07-83b6-4311-94a3-a2b0c6817d77,sorrow.academy,available,17.99,46.99,medium
 dbb34fc5-1b9f-4ea7-a2b8-aa6b2e614d21,coniferous.academy,available,8.48,59.98,high,low,10,namecheap,,,12/08/2026 20:37
 66436667-ca75-4828-8f24-d55c1c0f4521,reproductive.academy,available,7.45,37.46,high,low,12,spaceship,,,29/09/2026 14:35
 6d46a8e2-31f0-42c8-9e2e-19cdd1a7bb71,lullaby.academy,available,17.99,46.99,high,low,7,namesilo,,,23/09/2026 09:09
+05ce8266-9300-4b85-be2a-d3197274726a,chicana.academy,available,17.99,46.99,high,low,7,namesilo,,,03/10/2026 03:37
 104879ef-8c4d-4805-be0b-1162fb437e79,tactless.academy,available,8.48,59.98,medium,low,8,namecheap,,,11/09/2026 07:02
 a7a41c6c-fcc7-44c5-8f15-cff1ef91a62b,sisyphean.academy,available,8.48,59.98,medium,low,9,namecheap,,,10/09/2026 08:58
 84ea003f-d56a-4b3e-972f-20da6f3faee9,cylinder.academy,available,8.48,59.98,high,low,8,namecheap,,,29/09/2026 00:34
@@ -168,7 +180,7 @@ b17ddd70-1410-4ec6-bfd2-3f3ace5ec1f5,perilous.academy,available,8.48,59.98,mediu
 4ebab948-c052-43e1-8987-b445a26ce108,eighteen.academy,available,8.48,59.98,high,low,8,namecheap,,,21/09/2026 11:58
 ff8db4e1-17e0-4e7d-a274-5b07c3226c8c,hicks.academy,available,7.45,37.46,medium,low,5,spaceship,,,28/09/2026 12:48
 945c883b-8263-4b65-b2ca-0da61f240c9a,iridescent.academy,available,8.48,59.98,high,low,10,namecheap,,,12/08/2026 03:15
-e40449f8-b6df-4a16-98b8-a1b22e7aa2f8,businessmen.academy,available,7.45,37.46,high,low,11,spaceship,,,28/09/2026 08:52
+e40449f8-b6df-4a16-98b8-a1b22e7aa2f8,businessmen.academy,available,7.45,37.46,high,low,11,spaceship,,,02/10/2026 12:59
 0de03d81-bb5e-427f-a060-1dfcdb8bc8dd,amazonas.academy,available,7.45,37.46,medium,low,8,spaceship,,,01/10/2026 23:42
 e40447af-b281-40ca-8d77-5fd607f9d2d5,advise.academy,available,17.99,46.99,high,low,6,namesilo,,,27/09/2026 03:36
 db151c97-d0cd-4eb1-997d-bdae5e42e839,philosophers.academy,available,17.99,46.99,medium,low,12,namesilo,,,30/09/2026 14:37
@@ -186,6 +198,7 @@ d96a7cdb-7825-42d2-9db2-7aaf656146fd,frying.academy,available,17.99,46.99,high,l
 acd19382-8d65-4b5a-a5d9-f90277712734,whorehouse.academy,available,8.48,59.98,medium,low,10,namecheap,,,21/09/2026 18:13
 8a9d33d7-87a4-4732-9d38-e86bffd4df39,contraction.academy,available,36.2,36.2,high,low,11,cloudflare,,,29/09/2026 10:10
 ec11efe7-a399-4319-8763-48e4f6880a82,sorely.academy,available,17.99,46.99,medium,low,6,namesilo,,,16/09/2026 05:13
+7707ed9e-0472-419d-ad12-821a612a6004,tartar.academy,available,17,,medium,low,6,unstoppable,,,02/10/2026 14:47
 83488d76-da02-45e3-b504-48b48ae6a8cc,pinging.academy,available,17.99,46.99,medium,low,7,namesilo,,,02/10/2026 02:36
 5a3d30a1-23c1-4e61-bdd1-0fe690cd0792,playfully.academy,available,8.48,59.98,high,low,9,namecheap,,,15/09/2026 20:25
 db00de0b-e9b3-4e79-ba22-c559c6c0c988,approver.academy,available,17.99,46.99,medium,low,8,namesilo,,,19/09/2026 22:24
@@ -224,12 +237,16 @@ c32c1022-e946-4017-b906-913d64464a6d,silkily.academy,available,8.48,59.98,medium
 697653c6-f40d-46b4-9bf8-ee5420626f6a,conceited.academy,available,8.48,59.98,medium,low,9,namecheap,,,12/08/2026 19:54
 7a8474b3-6168-465e-b678-1b42a5d1ea1c,athenian.academy,available,,,medium,low,8,,,,
 e200bac2-d176-4465-ac27-10d325d2cbc9,forgive.academy,available,36.2,36.2,high,low,7,cloudflare,,,30/09/2026 19:56
+74a73e0f-45b3-40f7-8770-3236bb82037e,marv.academy,available,11.84,37.59,high,low,4,porkbun,,,02/10/2026 07:46
 c7d30382-25d8-4ef2-a29d-878e06e88230,doubted.academy,available,7.45,37.46,low,low,7,spaceship,,,29/09/2026 16:14
+19ccf03c-6b2a-403e-99ee-32dd1c60a125,kanpur.academy,available,17.99,46.99,medium,low,6,namesilo,,,03/10/2026 05:27
 9d86571c-0851-4906-a81f-c69bf452f106,aper.academy,available,17.99,46.99,medium,low,4,namesilo,,,19/09/2026 16:29
 21503cee-26e4-41ad-a5db-5bf9af36004d,turki.academy,available,8.48,59.98,medium,low,5,namecheap,,,11/09/2026 21:16
+2fbfd4f9-e18b-4621-9e6e-8517fcd4e250,tweed.academy,available,17.99,46.99,medium,low,5,namesilo,,,02/10/2026 16:59
 3a837536-7ee4-4e9b-8a72-1e842cd7e99f,infinity.academy,resell,,,high,medium,8,,,,29/09/2026 00:51
 b0a3c18a-fea8-4d64-b932-3f7c0c146d4e,qin.academy,available,7.45,37.46,medium,low,3,spaceship,,,28/09/2026 13:41
 bffa64b4-5dda-4b89-a443-d6934d6e1a48,ayatollah.academy,available,17.99,46.99,high,low,9,namesilo,,,21/09/2026 10:36
+b37447d7-c02d-4bbe-9904-6404fda55a9d,freehold.academy,available,7.45,37.46,medium,low,8,spaceship,,,02/10/2026 15:19
 9ed34e4b-b16f-487b-9d7a-006fb5c91746,stonewalls.academy,available,17.99,46.99,low,low,10,namesilo,,,20/09/2026 14:03
 0c7f5d83-b285-411c-b613-353634cb0663,tangled.academy,available,8.48,59.98,medium,low,7,namecheap,,,11/09/2026 07:59
 ba097ea3-54c4-48e1-97be-ee70f1763abe,horrifying.academy,available,8.48,59.98,medium,low,10,namecheap,,,18/08/2026 15:42
@@ -239,13 +256,16 @@ ba097ea3-54c4-48e1-97be-ee70f1763abe,horrifying.academy,available,8.48,59.98,med
 ef28b337-6fff-4742-99ca-625659a4cae4,cochrane.academy,available,17.99,46.99,medium,low,8,namesilo,,,27/09/2026 01:53
 705545a9-f69b-4692-8736-63f825b80058,honeymoon.academy,available,17.99,46.99,high,low,9,namesilo,,,27/09/2026 14:05
 ca43a4a4-d0f1-4965-b2be-58bdd34b4c3e,newtonian.academy,available,8.48,59.98,medium,low,9,namecheap,,,03/09/2026 16:55
+28074112-3cbd-4508-9ac0-41ddbf043242,reforms.academy,available,7.45,37.46,medium,low,7,spaceship,,,02/10/2026 21:22
 6bd22837-d915-4391-9d94-42c2b6cd24d9,bioassay.academy,available,17.99,46.99,high,low,8,namesilo,,,23/09/2026 17:38
+045f48b6-4fc6-4a5b-94fd-21ec3f122b20,selectively.academy,available,17,,medium,low,11,unstoppable,,,03/10/2026 03:28
+30d87596-181b-4a38-ae67-570ca196d1e1,husain.academy,available,17.99,46.99,medium,low,6,namesilo,,,02/10/2026 15:45
 9b819e84-57a4-4535-a0c2-be5685d87f15,elevators.academy,available,7.45,37.46,low,low,9,spaceship,,,29/09/2026 00:00
 3aa33987-9b7c-43dc-ac38-9388f58c730a,defensible.academy,available,8.48,59.98,medium,low,10,namecheap,,,13/08/2026 23:11
 6256ce1e-a5c1-4d76-ad21-8b59c1220d29,absorbed.academy,available,17.99,46.99,high,low,8,namesilo,,,21/09/2026 14:58
 4c06e683-c99d-4be8-b272-b06c4638be08,aerobic.academy,available,21.99,62.99,high,low,7,name.com,,,21/09/2026 21:01
 67698780-200b-45f7-96ba-988e1248b309,rectify.academy,available,17.99,46.99,high,low,7,namesilo,,,23/09/2026 23:41
-57d36bef-bde8-4ea4-9810-108c5ce45e57,cindy.academy,premium,118.8,118.8,high,low,5,namesilo,,,
+57d36bef-bde8-4ea4-9810-108c5ce45e57,cindy.academy,premium,118.8,118.8,high,low,5,namesilo,,,02/10/2026 13:16
 43d54fa0-acda-4fe2-a553-f38426b65d4a,mirish.academy,available,17.99,46.99,medium,low,6,namesilo,,,16/09/2026 16:36
 a2faaf55-23fd-41a9-878b-1ba6c3456a4d,questioned.academy,available,36.2,36.2,low,low,10,cloudflare,,,28/09/2026 08:50
 10648b8c-403e-4f72-b7c3-5faeb502c443,tragicomic.academy,available,8.48,59.98,medium,low,10,namecheap,,,11/09/2026 18:46
@@ -264,13 +284,15 @@ e1836b02-714d-40a5-bf50-7e5472a720e9,snaky.academy,available,8.48,59.98,medium,l
 a9723790-6f2c-4bcc-bf2b-fad86cc68d1f,orgy.academy,available,17.99,46.99,medium,low,4,namesilo,,,23/09/2026 17:17
 700b507b-ccde-470a-9cca-d1dc54c40daf,soundbar.academy,available,17.99,46.99,high,low,8,namesilo,,,02/10/2026 03:28
 d8b3d45a-6c3e-40c0-932c-7d4a508668f3,chum.academy,available,19.99,83.99,high,low,4,godaddy,,,01/10/2026 01:13
-5b0a6b8f-4025-4143-a580-764c0d1a1eac,fog.academy,available,17.99,46.99,high,low,3,namesilo,,,25/09/2026 23:40
+5b0a6b8f-4025-4143-a580-764c0d1a1eac,fog.academy,available,7.45,37.46,high,low,3,spaceship,,,02/10/2026 23:47
 cafc11b0-9ae6-4d7f-9be3-38ddea0f0da6,baffled.academy,available,8.48,59.98,medium,low,7,namecheap,,,07/08/2026 11:36
 3f0d96cd-3964-4ee8-89e9-7fe3465a41a9,repairs.academy,available,7.45,37.46,medium,low,7,spaceship,,,28/09/2026 18:11
+7d9b66fc-1a06-4757-b4ab-9569713fd6b1,diggs.academy,available,17.99,46.99,medium,low,5,namesilo,,,02/10/2026 09:46
 94df02c5-d2c1-4b59-8223-2193407d3bfd,dedicate.academy,available,17,,high,low,8,unstoppable,,,30/09/2026 18:29
 84aacc2c-9022-4266-9b27-7bd1472e7332,unimpeded.academy,available,8.48,59.98,medium,low,9,namecheap,,,12/09/2026 13:10
 3a07fc7e-e248-4cd5-b3e7-ea2e89c755c5,beaten.academy,available,8.48,59.98,medium,low,6,namecheap,,,09/08/2026 05:47
 814a351e-3bd7-4998-953e-390394517103,jethro.academy,available,36.2,36.2,medium,low,6,cloudflare,,,01/10/2026 08:34
+a6d02945-24ce-46ad-8d53-cc3e7fbca9ef,pusan.academy,available,7.45,37.46,medium,low,5,spaceship,,,02/10/2026 16:27
 55806961-b33b-4275-a70d-16fec0b2f940,fdp.academy,available,7.45,37.46,medium,low,3,spaceship,,,30/09/2026 06:45
 94611dd6-c1f4-448d-91c7-659010149448,sided.academy,available,17.99,46.99,low,low,5,namesilo,,,02/10/2026 01:56
 8ccb4e6a-30c8-4d1d-8139-0fe3370c7119,allegations.academy,available,17.99,46.99,medium,low,11,namesilo,,,29/09/2026 11:36
@@ -298,11 +320,14 @@ f37aebc1-e55a-4fec-9b06-0a2dbe28ea5b,hiemal.academy,available,8.48,59.98,medium,
 4533019d-b8d8-40dd-9ade-fbf40e4a59c4,langley.academy,available,7.45,37.46,high,low,7,spaceship,,,28/09/2026 14:40
 874a48a2-eb0a-4cf2-9131-08368bbfa852,archaeologist.academy,available,17.99,46.99,high,low,13,namesilo,,,30/09/2026 11:33
 81c6feda-252e-422e-b6d1-2c7f354e1d9c,freshness.academy,available,17.99,46.99,high,low,9,namesilo,,,24/09/2026 14:06
+8b4bc490-13c1-4db5-b0e0-a486093e8e61,consultancy.academy,available,17.99,46.99,high,low,11,namesilo,,,02/10/2026 21:46
+d102da2e-a0a9-47f9-9a61-4b6996b920aa,excruciating.academy,available,17,,medium,low,12,unstoppable,,,03/10/2026 02:50
 384dd4cc-d7a7-40b6-8c5c-ba34087e503b,principled.academy,available,17.99,46.99,high,low,10,namesilo,,,27/09/2026 05:57
 0d873b2c-7cfa-4afa-828f-b93909fea55f,hui.academy,available,17.99,46.99,high,low,3,namesilo,,,27/09/2026 07:46
 d62c40a6-6590-40c3-9e82-6c4805902189,ellington.academy,available,17.99,46.99,medium,low,9,namesilo,,,28/09/2026 09:32
 2352956f-b542-427c-b419-e9c37ac20b3b,bedamn.academy,available,21.99,62.99,low,low,6,name.com,,,13/08/2026 16:21
 23d84dfd-0f67-421d-acd9-c4c193b8de8e,alhaytham.academy,available,17.99,46.99,medium,low,10,namesilo,,,18/09/2026 00:48
+cbfe43c7-9e84-465a-97bb-75561835f79b,rehoboth.academy,available,11.99,38.74,medium,low,8,dynadot,,,03/10/2026 06:04
 f58a3d6b-7c47-467a-8993-16cca98b2988,polemist.academy,available,8.48,59.98,medium,low,8,namecheap,,,08/09/2026 22:57
 f8f7f984-e3a2-4a38-ab63-868ce7deb28f,dated.academy,available,21.99,62.99,medium,low,5,name.com,,,13/08/2026 18:40
 43827e7c-a462-42f4-b742-5f9d19325add,collector.academy,premium,118.8,118.8,high,low,9,namesilo,,,16/09/2026 23:18
@@ -315,13 +340,14 @@ dc5730ee-b41b-4729-ab6f-eda7f40656d3,ultimately.academy,available,8.48,59.98,med
 2cfae8b7-754f-426a-8b64-492a0c4d4d87,chin.academy,available,17.99,46.99,high,low,4,namesilo,,,29/09/2026 08:41
 fbbf139d-acd0-449a-b4b9-049d76adceed,increasingly.academy,available,11.84,37.59,medium,low,12,porkbun,,,29/09/2026 04:46
 c4450347-a047-4b81-b618-86773a078632,ignoble.academy,available,8.48,59.98,medium,low,7,namecheap,,,21/08/2026 18:23
-427e2328-bcba-4e36-b8b2-77999b1a781f,headteacher.academy,available,21.99,,high,low,12,name.com,,,
+427e2328-bcba-4e36-b8b2-77999b1a781f,headteacher.academy,available,17.99,46.99,high,low,12,namesilo,,,02/10/2026 16:28
 662c602a-a541-44ad-b132-12e66da5677d,stowe.academy,available,17,,medium,low,5,unstoppable,,,28/09/2026 14:23
 113aa6e9-b275-44b3-935b-1b7c482a9e34,bayes.academy,available,8.48,59.98,high,low,5,namecheap,,,22/09/2026 18:03
 278ec8b8-75ec-4f21-be1d-12d8cb7bd99c,blacken.academy,available,8.48,59.98,medium,low,7,namecheap,,,10/08/2026 11:10
 25aee518-2b19-4eae-a905-86afa12a33e1,compliments.academy,available,17.99,46.99,high,low,11,namesilo,,,29/09/2026 17:00
 395cd0a3-e156-4745-be6a-0961023c75fd,slapping.academy,available,11.99,38.74,medium,low,8,dynadot,,,01/10/2026 06:01
 e9b8c39f-1ab9-464d-aa8e-45339e7a9bf0,tying.academy,available,17,,high,low,5,unstoppable,,,29/09/2026 08:16
+b78fa868-f727-4503-acc1-a89eafa75791,wright.academy,premium,118.8,118.8,high,low,6,namesilo,,,02/10/2026 15:04
 f841891c-a274-4418-a178-df2714f697df,yokel.academy,available,8.48,59.98,medium,low,5,namecheap,,,21/08/2026 08:01
 e35473bb-b514-4579-a4fc-423812bff80e,jeremy.academy,premium,242,242,high,low,6,namesilo,,,27/09/2026 10:46
 a8ec22c9-f08d-4d05-af1e-3a53e513452f,inocor.academy,available,17.99,46.99,medium,low,6,namesilo,,,18/09/2026 23:58
@@ -329,9 +355,12 @@ a8ec22c9-f08d-4d05-af1e-3a53e513452f,inocor.academy,available,17.99,46.99,medium
 086329d7-ba0e-49e7-bbd0-fd4c227f7a8d,facto.academy,available,36.2,36.2,medium,low,5,cloudflare,,,30/09/2026 23:44
 3f3f296d-a7a3-4178-8456-a9c85dfd86dd,ache.academy,available,8.48,59.98,medium,low,4,namecheap,,,
 a9444bf8-88ea-45e6-9b46-42053b162449,palace.academy,available,36.2,36.2,high,low,6,cloudflare,,,29/09/2026 07:39
+bb2bb35f-5f9c-41e0-9505-60b7f99261a7,autographed.academy,available,17,,medium,low,11,unstoppable,,,03/10/2026 03:40
 70273c2e-5a73-4a41-803f-5da3fad7ff24,confirming.academy,available,17.99,46.99,high,low,10,namesilo,,,23/09/2026 19:45
 92ff6c69-e9af-4827-bffa-968f80eec0c5,dysfunctional.academy,available,17,,medium,low,13,unstoppable,,,30/09/2026 11:37
 c4451e16-8654-42bc-9212-934daf334141,alfresco.academy,available,8.48,59.98,medium,low,8,namecheap,,,
+d6183042-728c-4890-958e-b7cf449d6698,aberystwyth.academy,available,17.99,46.99,medium,low,11,namesilo,,,03/10/2026 04:55
+a43152a3-5c4c-442b-be59-5c8b7475bfad,breech.academy,available,17.99,46.99,medium,low,6,namesilo,,,02/10/2026 23:41
 03efd6a5-b313-4a3d-ab6e-8be4fed3332e,germanic.academy,available,8.48,59.98,high,low,8,namecheap,,,18/08/2026 22:46
 cc33e56c-f296-441a-95e5-d7113cb06c2f,hecht.academy,available,17.99,46.99,high,low,5,namesilo,,,23/09/2026 07:20
 eefca75c-a4a7-4405-895c-ef5bf0cbb23f,comte.academy,available,17.99,46.99,high,low,5,namesilo,,,21/09/2026 03:56
@@ -347,6 +376,7 @@ bef38c63-0a60-4ff3-91d1-b5058bb78620,tonight.academy,available,36.2,36.2,high,lo
 5e54914a-c2d2-4008-a846-6bdce9d5e979,soonest.academy,available,8.48,59.98,medium,low,7,namecheap,,,14/08/2026 22:25
 efd5bd8c-4d9d-4377-9bed-0a899123158d,advertisements.academy,available,21.99,,medium,low,14,name.com,,,
 a6b4b82d-e3a0-4cbe-863f-5b211cc85203,godless.academy,available,8.48,59.98,medium,low,7,namecheap,,,20/08/2026 16:02
+3924d506-15ed-4725-8d0c-e1f37e2e9e7f,slogans.academy,available,17,,medium,low,7,unstoppable,,,02/10/2026 22:51
 3a47b8ba-fd40-4b47-a5af-4bdfe140a70d,dedham.academy,available,17.99,46.99,medium,low,6,namesilo,,,29/09/2026 22:43
 9683dfa2-e9ae-49a7-8e09-5464f47324c8,isthmian.academy,available,8.48,59.98,medium,low,8,namecheap,,,22/08/2026 11:34
 d674d471-ae28-4441-8d1b-a8386530bccc,theropod.academy,available,8.48,59.98,medium,low,8,namecheap,,,23/09/2026 19:39
@@ -379,11 +409,14 @@ fed25295-d918-4941-8382-06dd2b6c44e1,judging.academy,available,8.48,59.98,high,l
 6449e9c8-2b47-46b7-9402-8e979a77e580,wilted.academy,available,8.48,59.98,medium,low,6,namecheap,,,23/08/2026 13:24
 ceb81d92-fb56-483d-ae2c-22b0846d5ec8,slides.academy,available,11.99,38.74,medium,low,6,dynadot,,,29/09/2026 05:46
 dd47819d-bdd1-48eb-96a8-216b54dea60c,starkly.academy,available,17.99,46.99,medium,low,7,namesilo,,,16/09/2026 06:57
+0c2536b8-504e-4f7c-937a-ac6e197c209c,twigs.academy,available,36.2,36.2,medium,low,5,cloudflare,,,02/10/2026 11:11
 e88daa83-26a6-4e65-a4f8-83772426172e,areas.academy,available,17.99,46.99,medium,low,5,namesilo,,,27/09/2026 10:01
 00aa03dc-4591-4d14-b719-040bbba76525,denied.academy,available,17.99,46.99,low,low,6,namesilo,,,27/09/2026 02:21
 29a4c13f-8b1b-4f20-8408-de7fa38a6ace,dahna.academy,available,17.99,46.99,medium,low,5,namesilo,,,19/09/2026 23:21
+3ca03061-3df0-4ed3-986f-0e39d738debd,tko.academy,available,17.99,46.99,high,low,3,namesilo,,,02/10/2026 16:56
 b15b3ff1-3b3d-4ce6-902b-8da3e1ac75b2,telly.academy,available,17.99,46.99,high,low,5,namesilo,,,24/09/2026 06:44
 f6d9b10d-91e7-45e9-9b10-d466755a3fbb,canned.academy,available,8.48,59.98,high,low,6,namecheap,,,11/08/2026 17:10
+fab55036-ef08-4580-82aa-1b5be202db47,motif.academy,available,17.99,46.99,high,low,5,namesilo,,,02/10/2026 16:08
 481aa929-297f-453f-a7d0-e3eedcf7317b,pacemaker.academy,available,8.48,59.98,high,low,9,namecheap,,,20/09/2026 11:42
 d4f920c8-5846-4e1c-b428-53dbdd1dda0c,passenger.academy,available,17.99,46.99,high,low,9,namesilo,,,27/09/2026 04:56
 ec824ffd-a112-4dce-991c-0e5e59f2b3b6,fledgeling.academy,available,8.48,59.98,high,low,10,namecheap,,,18/08/2026 07:32
@@ -397,6 +430,7 @@ be15e894-b796-4e7f-a574-1e175f8e0262,antilope.academy,available,8.48,59.98,mediu
 824ed8de-20e9-412f-928f-89b66f18b617,sexy.academy,premium,118.8,118.8,high,low,4,namesilo,,,22/09/2026 07:13
 2b985150-454b-44cf-9b7d-4fea2545feaa,adduct.academy,available,17.99,46.99,medium,low,6,namesilo,,,17/09/2026 07:09
 f7779303-3ced-4a64-98aa-03abd4d61bdb,alva.academy,available,7.45,37.46,high,low,4,spaceship,,,29/09/2026 15:31
+8e49341d-4acf-492c-b736-44719c94951a,supplements.academy,available,7.45,37.46,medium,low,11,spaceship,,,02/10/2026 14:12
 91e42e09-e0b7-48a5-8834-efd5c621ef65,declining.academy,available,17,,medium,low,9,unstoppable,,,01/10/2026 21:27
 ec27e73a-a859-4c22-b9a4-ff85a580b682,piffle.academy,available,8.48,59.98,medium,low,6,namecheap,,,21/09/2026 21:41
 8bc27d11-65e9-49cf-8770-e5fee64b6f69,rajiv.academy,available,7.45,37.46,medium,low,5,spaceship,,,01/10/2026 23:58
@@ -446,6 +480,7 @@ db6ddfc2-43c9-496b-a778-46ca2d77efb7,nor.academy,premium,99.5,,high,low,3,unstop
 b2078476-38e5-4096-8889-4c8468419847,turned.academy,available,7.45,37.46,medium,low,6,spaceship,,,28/09/2026 09:34
 801c0e6f-22b7-4618-abf8-c83f1104ded7,participation.academy,available,36.2,36.2,high,low,13,cloudflare,,,28/09/2026 22:50
 8644058d-0f77-4f90-85d0-e78c146dfa2b,assignee.academy,available,17.99,46.99,medium,low,8,namesilo,,,20/09/2026 16:23
+fe9e3b1d-6b97-43d9-8d20-475e23e7bc79,extinguisher.academy,available,7.45,37.46,high,low,12,spaceship,,,02/10/2026 18:19
 50d84b63-18b8-4b3c-8a8c-305e33b07133,recommend.academy,available,7.45,37.46,high,low,9,spaceship,,,28/09/2026 19:07
 40e746c9-3175-41fb-85f8-3182edb7de88,baal.academy,available,8.48,59.98,high,low,4,namecheap,,,21/09/2026 12:05
 a2948736-eb74-4bcc-b607-109b91d02d9d,jellyfish.academy,available,17.99,46.99,high,low,9,namesilo,,,01/10/2026 02:43
@@ -468,9 +503,15 @@ e4e90bf7-1e13-4841-9739-9a670811a847,screamed.academy,available,17.99,46.99,low,
 91180084-1b4c-4d61-85c7-317617845196,deepening.academy,available,8.48,59.98,medium,low,9,namecheap,,,13/08/2026 23:00
 93708d1a-0e9a-469b-a074-41aa3ea160f6,marguerite.academy,available,8.48,59.98,high,low,10,namecheap,,,20/09/2026 04:58
 315aceee-8225-49df-bc72-980ad1a44fea,trying.academy,available,8.48,59.98,high,low,6,namecheap,,,03/09/2026 15:44
+17d453b0-1e78-41a1-98a6-2c29c0f9cfcb,rawalpindi.academy,available,17.99,46.99,medium,low,10,namesilo,,,03/10/2026 01:53
+ed217f18-af03-4b16-acf4-7f8b0964b5e7,pears.academy,available,7.45,37.46,medium,low,5,spaceship,,,02/10/2026 20:19
+ee1000f8-fce7-48e2-ae26-56ba8dd1fa8e,ashburton.academy,available,17.99,46.99,medium,low,9,namesilo,,,02/10/2026 10:28
+ba9c5732-2a89-4ba8-9e1f-7728b9c1409d,wherein.academy,available,8.48,59.98,medium,low,7,namecheap,,,02/10/2026 17:36
 79ea24e0-a3bf-4bc1-87f0-3d49d90aa8c5,tips.academy,available,21.99,62.99,high,low,4,name.com,,,19/09/2026 17:44
 1653f52d-283b-4749-9887-1d98e0d56563,mandatory.academy,available,8.48,59.98,high,low,9,namecheap,,,23/09/2026 18:22
+65aaceec-5ea0-40a0-8171-03106c15e5a1,callum.academy,available,7.45,37.46,medium,low,6,spaceship,,,02/10/2026 23:27
 d773875c-cd21-4e85-bbf9-775e4da051d2,feeble.academy,available,21.99,62.99,medium,low,6,name.com,,,13/08/2026 20:30
+540be5ac-b6d6-41e2-8c43-0b45cf204940,bcl.academy,available,17.99,46.99,high,low,3,namesilo,,,03/10/2026 03:57
 862e5333-c43b-486b-87e0-fc5e97754abe,van.academy,premium,242,242,high,low,3,namesilo,,,22/09/2026 14:26
 01416768-b0e4-4948-a11e-81f579ea0eca,corsair.academy,available,17.99,46.99,high,low,7,namesilo,,,22/09/2026 04:33
 57bf5a47-1e50-4119-b93f-8715cd9f3eff,frostbite.academy,available,8.48,59.98,medium,low,9,namecheap,,,24/09/2026 19:56
@@ -478,7 +519,9 @@ b2a71e31-11bf-4b2c-b80b-18ee87b34683,villainous.academy,available,8.48,59.98,med
 9941af29-5b9e-4936-a69b-5c40f470b64b,checkered.academy,available,8.48,59.98,medium,low,9,namecheap,,,12/08/2026 03:38
 7efdf89b-2091-4da6-a7c1-199936ca3a4c,housebound.academy,available,8.48,59.98,medium,low,10,namecheap,,,21/08/2026 10:56
 90183d74-b441-44cd-bcfd-5c27302e303a,erasable.academy,available,8.48,59.98,medium,low,8,namecheap,,,15/08/2026 14:16
+b3fbbf91-f242-49d8-bb7e-245f15e9dcad,pecan.academy,available,17.99,46.99,high,low,5,namesilo,,,02/10/2026 14:35
 2e24ea5a-3ab4-4332-aaa1-449a53b5cc65,alkyl.academy,available,17.99,46.99,medium,low,5,namesilo,,,18/09/2026 08:34
+5a2ad976-2d12-4486-8dec-50f0b73badad,demolish.academy,available,17,,high,low,8,unstoppable,,,02/10/2026 06:43
 c67f7da3-4551-493c-a3ef-d87c598035b0,vaned.academy,available,8.48,59.98,medium,low,5,namecheap,,,13/09/2026 01:06
 93fa454e-1046-4402-ae77-8d7e900092ab,earliest.academy,available,17.99,46.99,medium,low,8,namesilo,,,24/09/2026 12:55
 457a9628-e0eb-4594-bfa0-5f9bb2a5d825,skimp.academy,available,8.48,59.98,medium,low,5,namecheap,,,09/09/2026 22:34
@@ -493,6 +536,7 @@ b812681c-4a3f-4eee-b114-3768461ea345,potable.academy,available,8.48,59.98,high,l
 cc575b89-dbf8-4ecd-99a5-9b29b45c95ca,peeking.academy,available,7.45,37.46,high,low,7,spaceship,,,02/10/2026 01:04
 a75fc958-d2ae-45db-af84-eeb6ed8a3ef4,negligent.academy,available,8.48,59.98,medium,low,9,namecheap,,,03/09/2026 15:07
 dfec1870-14ea-4735-a2b4-52e29e2877ff,dispense.academy,available,7.45,37.46,high,low,8,spaceship,,,01/10/2026 04:11
+09a43a49-d1be-42f0-91af-9da5d9eeb0af,tir.academy,available,17.99,46.99,high,low,3,namesilo,,,03/10/2026 03:59
 afd408e7-5b0d-48d1-a4d0-81a5aac85dc3,benches.academy,available,17.99,46.99,medium,low,7,namesilo,,,02/10/2026 03:10
 56a9a863-25c5-4c31-94b3-0ff6eeb48214,leeward.academy,available,8.48,59.98,medium,low,7,namecheap,,,22/08/2026 22:34
 fe0f628a-f3a3-428a-ab4c-79f996210778,graft.academy,available,17.99,46.99,medium,low,5,namesilo,,,24/09/2026 10:15
@@ -500,6 +544,7 @@ fe0f628a-f3a3-428a-ab4c-79f996210778,graft.academy,available,17.99,46.99,medium,
 3eeb4bfc-9c2d-47ed-9993-de3c5b426c5c,bolivian.academy,available,8.48,59.98,high,low,8,namecheap,,,10/08/2026 17:46
 be58a14d-3631-4db8-bda4-4a6c3bd6c52d,legless.academy,available,8.48,59.98,medium,low,7,namecheap,,,22/08/2026 23:13
 8c388223-110a-4e6f-a148-4b75a306e111,cleverly.academy,available,17,46.99,high,low,8,unstoppable,,,28/09/2026 13:56
+4036ab80-370b-4a07-ad12-1712c92b2e50,stereotypes.academy,available,17.99,46.99,low,low,11,namesilo,,,02/10/2026 13:30
 dc325db7-83a4-4e19-aab7-f640f488d8a0,library.academy,resell,,,high,low,7,DropCatch.com 358 LLC,27/09/2025 15:15,27/09/2027 15:15,28/09/2026 08:46
 46906e4b-3821-462e-b2a3-6c9cbd887828,baya.academy,available,8.48,59.98,medium,low,4,namecheap,,,22/09/2026 17:54
 eea187e9-bb2e-4fc1-94f2-9709d8f930bc,vacuous.academy,available,8.48,59.98,low,low,7,namecheap,,,07/08/2026 02:52
@@ -534,7 +579,9 @@ d2bc9e31-fb3a-4caf-9a64-b8e05a751d8f,alaric.academy,available,17.99,46.99,medium
 3b1e9408-def5-4947-a1ef-f03c632208c2,crime.academy,available,8.48,59.98,high,low,5,namecheap,,,24/09/2026 19:24
 c2dde049-7d28-4642-b761-6d2fb928924e,unblended.academy,available,8.48,59.98,medium,low,9,namecheap,,,12/09/2026 02:12
 45975ed0-7e9e-4cbd-aa8f-ccaca9ba1b5f,rinse.academy,available,17.99,46.99,high,low,5,namesilo,,,01/10/2026 03:30
+915d7fda-b97b-44a9-b8c9-e8e5ad4f58a6,placenta.academy,available,8.48,59.98,high,low,8,namecheap,,,02/10/2026 16:24
 98d92762-b24c-4fc2-b86d-c29ba530de7d,multitude.academy,available,17,,high,low,9,unstoppable,,,29/09/2026 10:33
+187d3c87-064a-4c2b-8b30-4595c7a0ead7,inconspicuous.academy,available,17.99,46.99,medium,low,13,namesilo,,,03/10/2026 02:49
 91217e1f-4eb3-40b7-a26f-ec6dff1e4f60,navarro.academy,available,17.99,46.99,medium,low,7,namesilo,,,28/09/2026 08:00
 bdcbe69a-95eb-4426-9210-24343a7ac486,plaintiffs.academy,available,17.99,46.99,low,low,10,namesilo,,,01/10/2026 00:55
 c144d499-8073-47fd-8618-17a03ac19ff7,bahr.academy,available,7.45,37.46,medium,low,4,spaceship,,,01/10/2026 16:27
@@ -550,6 +597,8 @@ bf1e1dde-ee76-4c48-9c49-a89e55df9dc7,womb.academy,available,7.45,37.46,high,low,
 6a357040-72f8-4289-88b7-12b322a38830,regionally.academy,available,8.48,59.98,medium,low,10,namecheap,,,15/09/2026 22:57
 befe9ed9-fc1f-428f-b574-7b072bc3b7fd,codified.academy,available,8.48,59.98,medium,low,8,namecheap,,,12/08/2026 15:19
 39c2c586-c6b7-4566-ab17-a78e93aebdb5,althaea.academy,available,17.99,46.99,medium,low,7,namesilo,,,18/09/2026 14:53
+6f5e73a5-a232-4dd4-8a07-6ac5d76b3520,educating.academy,available,17,,high,low,9,unstoppable,,,02/10/2026 12:15
+f8ea35c3-96d2-4f1b-be15-2c9ccdf86569,emporium.academy,available,36.2,36.2,high,low,8,cloudflare,,,03/10/2026 05:42
 c1107fad-8fcf-4768-92fa-4f5209463720,cometic.academy,available,8.48,59.98,medium,low,7,namecheap,,,12/08/2026 18:58
 242203fe-8a3d-4272-b7a6-b4b8cda97b53,debater.academy,available,17.99,46.99,medium,low,7,namesilo,,,20/09/2026 04:45
 2ab340fe-72f4-4d9c-8172-6dcd3fd4330d,jenks.academy,available,17.99,46.99,medium,low,5,namesilo,,,30/09/2026 13:40
@@ -558,9 +607,11 @@ c1107fad-8fcf-4768-92fa-4f5209463720,cometic.academy,available,8.48,59.98,medium
 9b7601f2-9068-456e-b520-02056a0627b8,male.academy,available,17.99,46.99,high,low,4,namesilo,,,25/09/2026 16:34
 f5504e50-fbd0-40da-a029-228d296d98ba,pigfish.academy,available,17.99,46.99,medium,low,7,namesilo,,,17/09/2026 00:46
 f4f163ff-9b81-4922-9e3b-b647d9423696,contiguous.academy,available,8.48,59.98,medium,low,10,namecheap,,,12/08/2026 23:11
+aaaa4911-182b-4282-a6c6-ab1c031c9d40,dinwiddie.academy,available,7.45,37.46,medium,low,9,spaceship,,,02/10/2026 20:42
 76702edc-4b20-4b1c-a0a6-81c146424315,sorrows.academy,available,17,,low,low,7,unstoppable,,,01/10/2026 16:36
 e6ef02a6-951a-46d5-bd17-0444e62ee53b,desiccated.academy,available,8.48,59.98,medium,low,10,namecheap,,,14/08/2026 03:33
 448ef048-d53e-4c26-a66f-897a7fb059a9,fiddling.academy,available,8.48,59.98,medium,low,8,namecheap,,,18/08/2026 03:28
+41461e16-7cd0-4f9b-8941-e1de2d6b9fed,administering.academy,available,8.48,59.98,medium,low,13,namecheap,,,02/10/2026 18:16
 fc23a349-ec6d-409d-938a-916dfeb22c18,taxing.academy,available,8.48,59.98,medium,low,6,namecheap,,,11/08/2026 10:33
 cec8f03c-64ed-4eed-b295-5912d424d45b,attester.academy,available,17.99,46.99,medium,low,8,namesilo,,,21/09/2026 01:41
 7a391dd1-c787-4c2e-abbe-5d3c83f03c59,arran.academy,available,11.84,37.59,medium,low,5,porkbun,,,01/10/2026 23:18
@@ -578,7 +629,7 @@ c41a35c7-268e-4095-98f1-5ec35ab9ab0d,excuse.academy,available,17.99,46.99,high,l
 58d6fc4d-7ccc-43e4-9d8a-cd8fed8d9646,narrows.academy,available,17.99,46.99,medium,low,7,namesilo,,,30/09/2026 21:54
 7a29bce2-99f2-4999-9cf8-ed45ce10c7f3,brainwash.academy,available,17.99,46.99,high,low,9,namesilo,,,30/09/2026 16:18
 b8b0bc5d-b4d2-47a8-a436-dba2b939b00c,patrick.academy,available,17.99,46.99,high,low,7,namesilo,,,25/09/2026 09:49
-d0bd93ea-52e3-4f7f-abc8-3e133edb1827,consumers.academy,available,17.99,46.99,medium,low,9,namesilo,,,29/09/2026 02:36
+d0bd93ea-52e3-4f7f-abc8-3e133edb1827,consumers.academy,available,17,46.99,medium,low,9,unstoppable,,,03/10/2026 05:38
 c9568371-e3f2-4a1a-8308-a6fdb5639419,ararat.academy,available,17.99,46.99,medium,low,6,namesilo,,,20/09/2026 00:11
 ad7d16f2-4378-4ed2-b26e-ca34b41f6c4b,hilarious.academy,available,8.48,59.98,high,low,9,namecheap,,,21/08/2026 09:21
 67c4a231-9e58-4226-847d-e2b71bdc757e,materially.academy,available,8.48,59.98,medium,low,10,namecheap,,,15/09/2026 13:37
@@ -619,8 +670,11 @@ ad0bd07a-938e-483e-9d37-951b70e7cd1f,fourfold.academy,available,8.48,59.98,high,
 40e38358-37ed-4f64-ae6d-968d097f3363,weather.academy,premium,118.8,118.8,high,medium,7,namesilo,,,23/09/2026 02:29
 bb8f99c5-cb89-462c-9310-a99acc90511d,gypsy.academy,available,8.48,59.98,high,low,5,namecheap,,,10/08/2026 17:21
 d5b745ca-f975-4393-af80-010b522ba56f,finished.academy,available,8.48,59.98,high,low,8,namecheap,,,24/09/2026 18:27
+9cee897f-f197-46e5-bd22-509d2105e3af,interpreting.academy,available,7.45,37.46,high,low,12,spaceship,,,02/10/2026 12:24
 e2ee6716-5626-4d94-8af9-5aaf4f5641f6,beech.academy,available,17.99,46.99,high,low,5,namesilo,,,23/09/2026 00:02
+e180b5dc-af4f-4d92-9a4f-fa603bf4fe7e,pellet.academy,available,17.99,46.99,high,low,6,namesilo,,,02/10/2026 16:23
 aa66158a-200e-4819-b82e-10eb35f3d2bd,heyday.academy,available,8.48,59.98,high,low,6,namecheap,,,18/08/2026 09:24
+2627d96a-0950-4070-b632-c86f965fba06,turkeys.academy,available,7.45,37.46,medium,low,7,spaceship,,,02/10/2026 12:41
 c0dff33e-ab19-4d68-bc8c-cc3dc37ce1a4,keyset.academy,available,17.99,46.99,low,low,7,namesilo,,,21/09/2026 00:17
 ecf4e20f-76f4-4053-98d4-27264a135146,stagecoach.academy,available,7.45,37.46,medium,low,10,spaceship,,,01/10/2026 03:54
 8ddf8b0b-5c08-4380-b51c-5e7f03b41edc,technologist.academy,available,11.84,37.59,high,low,12,porkbun,,,30/09/2026 02:33
@@ -641,6 +695,7 @@ d560f408-4480-4b98-aeb7-e1d6c49fbe89,penelope.academy,available,7.45,37.46,mediu
 4b49ded9-4cb1-4fc3-a466-2585220b1552,paraplegic.academy,available,8.48,59.98,medium,low,10,namecheap,,,08/09/2026 01:10
 e274895e-57f6-4a9f-bced-6ff20414b569,nourished.academy,available,8.48,59.98,high,low,9,namecheap,,,03/09/2026 22:12
 ce57614c-e4c1-4ce7-affd-f42c455c498c,querulous.academy,available,8.48,59.98,medium,low,9,namecheap,,,09/09/2026 08:33
+4125be1b-d532-44cb-a800-61eded216ab8,ouch.academy,available,17.99,46.99,medium,low,4,namesilo,,,02/10/2026 06:49
 88e2808e-cb2a-4a06-93f1-3a854f1715e9,agua.academy,available,8.48,59.98,high,low,4,namecheap,,,17/09/2026 20:04
 52fa9d13-961a-4f25-9335-474241ff4e32,brooding.academy,available,8.48,59.98,medium,low,8,namecheap,,,11/08/2026 05:52
 6056cfe2-3669-4dd6-8e8b-5ca20ef42013,connecticut.academy,available,7.45,37.46,high,low,11,spaceship,,,28/09/2026 03:48
@@ -652,11 +707,12 @@ e825a8c3-e7c8-4f28-a0a3-e9555f6ef67f,possessed.academy,available,17.99,46.99,med
 d93a8a8f-2afe-4ea0-8f5f-aae301ce6f25,such.academy,available,17.99,46.99,high,low,4,namesilo,,,28/09/2026 01:50
 6ea8b039-89d4-41ea-bd46-33cc5b2785cb,bine.academy,available,17.99,46.99,medium,low,4,namesilo,,,23/09/2026 17:13
 b3d37d16-b9e7-48cf-a756-a5f6748aba74,delos.academy,available,36.2,36.2,high,low,5,cloudflare,,,01/10/2026 23:44
+a2630254-7659-47b9-a51d-51850dbfbb82,oromo.academy,available,7.45,37.46,medium,low,5,spaceship,,,03/10/2026 04:53
 cf0e0cfc-4649-4d5d-941a-a32d38bbc6ab,heartleaf.academy,available,8.48,59.98,medium,low,9,namecheap,,,20/09/2026 12:53
 39b4262d-91a3-4b2d-8efa-b613086a9ccb,hundredth.academy,available,8.48,59.98,high,low,9,namecheap,,,
 ef132a90-1b2e-4881-a6a1-9c5398029739,corps.academy,available,11.99,38.74,high,low,5,dynadot,,,28/09/2026 22:09
 2b0ed923-076f-4ce2-bdf2-eaaa3dbba16e,relish.academy,available,11.99,38.74,high,low,6,dynadot,,,29/09/2026 21:47
-e9e779ef-70ad-439e-b85b-896933f20cf0,roundabout.academy,available,8.48,59.98,medium,low,11,namecheap,,,12/08/2026 08:20
+e9e779ef-70ad-439e-b85b-896933f20cf0,roundabout.academy,available,7.45,37.46,medium,low,11,spaceship,,,02/10/2026 17:46
 456dc30a-c96a-4fa8-9e75-a2e0a986ec68,exclusion.academy,available,7.45,37.46,high,low,9,spaceship,,,30/09/2026 17:15
 7ede1ebe-1ade-4617-8017-8c58f7a777a3,simpler.academy,available,7.45,37.46,high,low,7,spaceship,,,01/10/2026 21:22
 c847fbac-d8c6-4650-b8d9-79763b2e153b,azo.academy,available,8.48,59.98,high,low,3,namecheap,,,08/08/2026 02:17
@@ -669,6 +725,7 @@ f90887a2-3a47-4b59-a775-3f6f5fcdabc6,fondness.academy,available,17.99,46.99,high
 0600f8b2-e352-48fa-960b-65346e5a47c2,lilac.academy,available,8.48,59.98,high,low,5,namecheap,,,22/08/2026 21:04
 1939b01a-2f3a-4386-95dd-23686a9aa2e0,youthfully.academy,available,17.99,46.99,medium,low,10,namesilo,,,16/09/2026 11:49
 acaa8f26-2734-40a2-b20b-eacb2c885a3f,empty.academy,available,8.48,59.98,high,low,5,namecheap,,,24/09/2026 13:56
+b6e70026-4e2f-4b58-a11d-d2ae43e0b3ae,unparalleled.academy,available,7.45,37.46,high,low,12,spaceship,,,02/10/2026 07:22
 52f57ae0-3fbe-4b7e-bcb3-22f57ea24b8a,pasang.academy,available,17.99,46.99,medium,low,6,namesilo,,,23/09/2026 12:24
 006bdca1-d403-4529-88c5-224fb01a7999,topically.academy,available,8.48,59.98,medium,low,9,namecheap,,,16/09/2026 09:16
 6d28e116-c8c3-410a-9a2f-b1dcc29c4625,capitalist.academy,available,8.48,59.98,high,low,10,namecheap,,,11/08/2026 17:55
@@ -681,18 +738,22 @@ a33c3704-8a63-4286-b733-d08033d4319f,squabble.academy,available,17.99,46.99,medi
 c81823c8-f2e6-4a1a-8f1f-7854c0ca9cc3,shannon.academy,premium,123.75,123.75,high,low,7,name.com,,,25/09/2026 04:16
 acb5fc0d-ca46-48b2-990d-3d24635e6b69,bleb.academy,available,17.99,46.99,medium,low,4,namesilo,,,24/09/2026 05:21
 53ff25b5-f984-494d-b39c-29cacd6b29fd,sorbonne.academy,available,7.45,37.46,high,low,8,spaceship,,,28/09/2026 20:07
+1f90fee2-e893-47dc-b55d-5f6190f1340e,strengthened.academy,available,7.45,37.46,medium,low,12,spaceship,,,02/10/2026 22:26
 b3a58a46-1fa8-4ea1-8afc-5fa74acd78ce,uncordial.academy,available,17.99,46.99,medium,low,9,namesilo,,,12/09/2026 06:13
+7d8b0c39-8731-4490-937b-4b2943f14627,saeed.academy,available,17.99,46.99,medium,low,5,namesilo,,,02/10/2026 07:58
 78e7eb5c-4862-4246-b5e3-1d548c57c24e,perot.academy,available,17.99,46.99,medium,low,5,namesilo,,,01/10/2026 15:27
 303461a7-2b06-41d6-9ca4-74ad859d9c3c,sunburnt.academy,available,8.48,59.98,medium,low,8,namecheap,,,11/09/2026 01:48
 c98eb9e5-c0dd-44d1-8239-972e826ac71e,shaking.academy,available,17.99,46.99,medium,low,7,namesilo,,,28/09/2026 09:33
 63293873-73c2-4016-90fc-e99d6293a65c,winslow.academy,available,11.99,38.74,medium,low,7,dynadot,,,30/09/2026 09:31
 86de9b35-c93b-4068-8990-09d2cf43ec21,falling.academy,available,8.48,59.98,high,low,7,namecheap,,,14/08/2026 19:49
 047aea1b-f464-4a25-8946-b6b480b69973,erc.academy,available,8.48,59.98,high,low,3,namecheap,,,30/09/2026 19:29
+c99cf445-4c89-4308-8c79-41c3d74648cb,barnaby.academy,available,7.45,37.46,high,low,7,spaceship,,,03/10/2026 04:44
+7cfe1c16-b12b-48af-bf4e-7cb88defc293,phonograph.academy,available,7.45,37.46,high,low,10,spaceship,,,02/10/2026 16:22
 4e550f13-5353-4a92-8542-c6ed789d48c1,proposition.academy,available,8.48,59.98,high,low,11,namecheap,,,28/09/2026 03:24
 44d224df-1a44-4fc2-a440-dbc811045ad4,bedder.academy,available,17.99,46.99,medium,low,6,namesilo,,,22/09/2026 23:13
 8b93eda8-3cb2-49c2-b9a1-3ffdc29bc657,protrude.academy,available,8.48,59.98,medium,low,8,namecheap,,,08/09/2026 23:44
 5d965fd5-c9c6-43fd-9538-e013e033953b,pla.academy,available,11.99,38.74,high,low,3,dynadot,,,27/09/2026 18:08
-fbcbdb0f-1b42-440b-9918-2121a40f2e46,tuesdays.academy,available,21.99,,medium,low,8,name.com,,,
+fbcbdb0f-1b42-440b-9918-2121a40f2e46,tuesdays.academy,available,17,,high,low,8,unstoppable,,,02/10/2026 16:20
 a980740e-b84c-445b-92a5-6b57bb5fc72e,feral.academy,available,8.48,59.98,high,low,5,namecheap,,,18/08/2026 01:10
 456c73da-4291-4093-8645-242986596cdf,eeg.academy,available,7.45,37.46,high,low,3,spaceship,,,28/09/2026 19:03
 75480983-5762-4e0d-9219-0186d6a2bb9b,reprieve.academy,available,17.99,46.99,high,low,8,namesilo,,,16/09/2026 14:08
@@ -704,9 +765,11 @@ ad1607fe-331b-4c3a-84ee-54b63fb4f95e,feminists.academy,available,11.99,38.74,med
 839b81b9-6c8b-4a9b-b86b-d91d6df5735b,courtesy.academy,available,8.48,59.98,high,low,8,namecheap,,,24/09/2026 18:48
 3496c311-7650-43e0-98a3-c846b3ff816e,overside.academy,available,8.48,59.98,medium,low,8,namecheap,,,15/09/2026 18:29
 e935cb51-56e9-4b2d-aa4e-7823e3682019,sharps.academy,available,17.99,46.99,medium,low,6,namesilo,,,20/09/2026 09:14
+267e509f-1a05-43b5-9634-a1a7e48545ed,bharatiya.academy,available,7.45,37.46,high,low,9,spaceship,,,02/10/2026 07:20
 32d09bb4-b6e8-4b89-9697-fcb13d084619,fringe.academy,available,7.45,37.46,high,low,6,spaceship,,,29/09/2026 01:02
 e01f9f3b-76aa-4e92-85e5-49bc54534f00,restraint.academy,available,17.99,46.99,medium,low,9,namesilo,,,28/09/2026 18:42
 19f6b559-debb-4e38-a6cd-bb5d797fcdc4,hurd.academy,available,7.45,37.46,medium,low,4,spaceship,,,28/09/2026 22:24
+93cb52bd-1259-4f86-971e-03d206ec4d6f,loader.academy,available,17,,medium,low,6,unstoppable,,,03/10/2026 00:31
 601c2356-9ec4-45e5-8dcf-c7e2ed420dac,highlights.academy,available,7.45,37.46,high,low,10,spaceship,,,29/09/2026 17:36
 94e50715-9816-4bf7-ab6d-f50176860123,spotify.academy,available,,,high,high,7,,,,
 b67c93e3-0fc3-49ac-a968-98e835c2abdd,broth.academy,available,17.99,46.99,high,low,5,namesilo,,,24/09/2026 10:49
@@ -758,26 +821,30 @@ aee776e6-4571-40e7-baa9-bdc275cf2f84,phial.academy,available,17.99,46.99,medium,
 e24e824e-222a-400c-ab48-2e59d486ba75,protestant.academy,available,8.48,59.98,high,low,10,namecheap,,,09/09/2026 04:08
 72ebd80f-6b9b-47c9-9ef8-30fbd8574b1e,remembers.academy,available,7.45,37.46,medium,low,9,spaceship,,,28/09/2026 00:17
 42f6107d-0f18-4467-af64-07145d4c6b01,farmington.academy,available,7.45,37.46,medium,low,10,spaceship,,,28/09/2026 05:41
+6345eedc-209d-43a2-a9bf-71f8ab76dea6,subterranean.academy,available,11.99,38.74,high,low,12,dynadot,,,02/10/2026 21:12
 a432dc17-3648-41b7-acb1-1ca0c897c620,half.academy,available,17.99,46.99,high,low,4,namesilo,,,24/09/2026 23:16
 0b22dd63-f4de-4654-a47d-53658adf7c59,propranolol.academy,available,17.99,46.99,medium,low,11,namesilo,,,20/09/2026 00:29
 ecccb4ec-e33b-49a9-9336-8222f772ffa5,thermometer.academy,available,7.45,37.46,high,low,11,spaceship,,,30/09/2026 03:20
+c2a984b5-ba3f-4bf2-97db-a64b700aa671,rubbers.academy,available,17,,high,low,7,unstoppable,,,02/10/2026 22:44
 220495ba-bc13-4cf2-aba8-302d03f47c3e,ongoing.academy,available,8.48,59.98,high,low,7,namecheap,,,04/09/2026 13:59
 eb5babcf-c082-445f-899c-c70dad03267a,teammates.academy,available,36.2,36.2,medium,low,9,cloudflare,,,30/09/2026 16:12
 3380660d-8e1a-432d-a62b-2a7a6be82366,motherly.academy,available,8.48,59.98,high,low,8,namecheap,,,25/08/2026 07:06
 59b4e56f-041b-4b83-8f17-965b298befd7,tho.academy,available,11.99,38.74,medium,low,3,dynadot,,,30/09/2026 13:15
 cd357695-b95e-4a71-8047-5402daf692af,affirmer.academy,available,8.48,59.98,medium,low,8,namecheap,,,17/09/2026 14:33
 9a4cd2c1-4146-4c34-a81c-86fa831fb0ae,thousand.academy,available,17.99,46.99,high,low,8,namesilo,,,21/09/2026 11:02
+522158ce-fa28-45a4-90d7-af8775ddd208,misled.academy,available,7.45,37.46,low,low,6,spaceship,,,02/10/2026 21:17
 4b960055-4e2d-4051-8b87-23d3b8fce916,opencast.academy,available,8.48,59.98,medium,low,8,namecheap,,,04/09/2026 16:08
 a58f4b91-0cab-4f76-839a-1f2d0205f2e4,inject.academy,available,36.2,36.2,high,low,6,cloudflare,,,29/09/2026 20:43
 7a54921a-725c-4ac3-a234-9473b17b9212,doris.academy,available,17.99,46.99,high,low,5,namesilo,,,27/09/2026 03:46
 6cb8d2e6-410f-4550-9f66-eacee9b3bd40,folding.academy,available,8.48,59.98,high,low,7,namecheap,,,24/09/2026 20:52
 ab9baa20-20e2-4498-9c08-ce420454e148,abc.academy,resell,,,high,medium,3,"GoDaddy.com, LLC",15/07/2015 18:46,15/07/2027 18:46,28/09/2026 17:01
+2cd492f1-5257-415f-862b-70e4f75143a6,wofford.academy,available,17.99,46.99,high,low,7,namesilo,,,03/10/2026 06:06
 2878b963-909b-4f16-9979-42bb87db59e0,returned.academy,available,7.45,37.46,high,low,8,spaceship,,,01/10/2026 19:02
 87d9eadc-ad89-4ec8-b2a0-158ef12a2632,forerunners.academy,available,36.2,36.2,medium,low,11,cloudflare,,,01/10/2026 18:42
 b51f897a-e94d-4ed5-a9eb-3dd4b8a2f7bb,metastatic.academy,available,8.48,59.98,medium,low,10,namecheap,,,24/08/2026 21:49
 de4d8749-b554-4dea-8059-fd4eb6c4eb0d,features.academy,available,17.99,46.99,medium,low,8,namesilo,,,28/09/2026 12:52
 7a3aa423-fca4-4f1c-9ee6-c6a5e67b408f,rhapsodic.academy,available,8.48,59.98,medium,low,9,namecheap,,,14/08/2026 23:52
-80260fb7-02d3-4533-8059-1a686dc4d905,demonstration.academy,available,21.99,,high,low,13,name.com,,,
+80260fb7-02d3-4533-8059-1a686dc4d905,demonstration.academy,available,7.45,37.46,high,low,13,spaceship,,,03/10/2026 01:27
 d7f1ad86-82be-4943-93aa-e358d56b95c5,davie.academy,available,11.84,37.59,high,low,5,porkbun,,,29/09/2026 22:14
 d442574a-db7c-4514-8564-e34fb26edecb,sinks.academy,available,17.99,46.99,medium,low,5,namesilo,,,30/09/2026 15:46
 69321915-6859-4970-8ddc-1c8f447ac54c,hussain.academy,available,36.2,36.2,medium,low,7,cloudflare,,,29/09/2026 09:29
@@ -794,6 +861,7 @@ dfec1af9-f9ed-4f1e-beab-6b4f8f5479c8,squeezable.academy,available,8.48,59.98,med
 968242d9-2671-4a79-a9ab-081895452447,blende.academy,available,17.99,46.99,medium,low,6,namesilo,,,24/09/2026 05:43
 0e1ce808-d08f-468f-944f-d5367e20c0f3,brunch.academy,available,17.99,46.99,high,low,6,namesilo,,,24/09/2026 10:54
 a094c66a-6153-4764-b3a5-f153f96e4673,older.academy,available,17.99,46.99,high,low,5,namesilo,,,21/09/2026 22:32
+c2ab84c0-6fa6-4e72-a3d5-6b9aa5b2c611,pesticides.academy,available,17,,low,low,10,unstoppable,,,02/10/2026 12:58
 667db57b-34fc-448f-a059-23b72f5c5969,postmaster.academy,available,11.84,37.59,high,low,10,porkbun,,,01/10/2026 21:21
 dd48ac2f-80b2-4459-808d-54dd66194cdf,promenade.academy,available,17.99,46.99,high,low,9,namesilo,,,18/09/2026 16:56
 684ba140-18be-4b05-98b2-8bd4b751bca6,gymnastics.academy,premium,260,260,high,low,10,namecheap,,,29/09/2026 01:12
@@ -801,8 +869,11 @@ c8df16e2-458b-4f04-8e00-5badeea5954b,jiang.academy,available,17.99,46.99,high,lo
 147d48ad-1eda-4afa-87f7-72d6080a1cc3,hara.academy,available,7.45,37.46,medium,low,4,spaceship,,,30/09/2026 13:49
 2aa2b57e-3b66-4266-83ad-373551fac7df,zapotec.academy,available,8.48,59.98,high,low,7,namecheap,,,13/09/2026 15:07
 27def523-d491-4331-b2d3-4e23e96e32d3,sunroof.academy,available,11.99,38.74,high,low,7,dynadot,,,30/09/2026 12:27
+ef382a57-3e7b-4933-8db2-328efbf8f68f,assures.academy,available,17.99,46.99,medium,low,7,namesilo,,,02/10/2026 13:39
 a0c54f66-dd0a-4600-8966-dc72afa9dcca,advert.academy,resell,,,high,low,6,"GoDaddy.com, LLC",05/02/2021 13:10,05/02/2027 13:10,28/09/2026 11:46
+01874669-567b-404b-ad62-9444835f7252,perpendicular.academy,available,17,,medium,low,13,unstoppable,,,03/10/2026 02:36
 c28cc8a4-b119-41e2-8ef2-0209d5bb8572,detained.academy,available,17,,low,low,8,unstoppable,,,29/09/2026 05:25
+5ea87056-9fd6-4954-93b5-142804ea25ca,tiara.academy,available,17.99,46.99,high,low,5,namesilo,,,03/10/2026 02:14
 c0505a2a-0498-46a3-a9f2-5caa17366582,dishonour.academy,available,17.99,46.99,medium,low,9,namesilo,,,29/09/2026 15:45
 8f8cd4aa-f5be-41da-8aec-7a58821e1e7e,greenly.academy,available,8.48,59.98,medium,low,7,namecheap,,,14/09/2026 22:19
 5adc15eb-6f7c-4657-868a-6e66b1cfead9,undertaken.academy,available,11.99,38.74,medium,low,10,dynadot,,,01/10/2026 13:36
@@ -813,8 +884,10 @@ c0505a2a-0498-46a3-a9f2-5caa17366582,dishonour.academy,available,17.99,46.99,med
 8c39bc2d-846d-41d5-a806-9203e7d8106e,alehouse.academy,available,17.99,46.99,medium,low,8,namesilo,,,18/09/2026 05:01
 144b0129-a397-4f65-938d-b0894b17c418,whisking.academy,available,11.84,37.59,medium,low,8,porkbun,,,01/10/2026 23:58
 aa1f6191-ef94-4588-97e0-59dca7eb436d,upgrade.academy,resell,,,high,low,7,Porkbun LLC,19/04/2026 22:49,19/04/2027 22:49,26/09/2026 09:53
+1a3ec09e-0769-4022-a2a8-0783c810f9ea,patsy.academy,available,17.99,46.99,medium,low,5,namesilo,,,02/10/2026 14:38
 712ff756-bbd8-4606-aaf9-45575ea18e8f,acinic.academy,available,8.48,59.98,medium,low,6,namecheap,,,
 c0e75c65-8924-4527-b322-11386dcb207e,atarax.academy,available,8.48,59.98,medium,low,6,namecheap,,,20/09/2026 19:30
+f7cd17e4-ecb7-489a-804d-748b9eb49770,solitaire.academy,available,17.99,46.99,high,low,9,namesilo,,,03/10/2026 01:46
 28ca3ccb-e5ae-4770-9793-016574eb77d8,etched.academy,available,8.48,59.98,medium,low,6,namecheap,,,17/08/2026 07:41
 847d7ad5-92a9-4134-b4b8-ea68a8ca4091,parity.academy,available,17.99,46.99,high,low,6,namesilo,,,24/09/2026 13:55
 c0f71fe1-457d-4d05-893c-74eb75b146a6,vulpine.academy,available,8.48,59.98,medium,low,7,namecheap,,,13/09/2026 07:26
@@ -841,9 +914,11 @@ fde02a3a-398e-4665-ac1c-162bc22cac14,thermionic.academy,available,8.48,59.98,med
 3fec5b47-8d7c-45a1-aec7-54a032120b08,annoying.academy,available,17.99,46.99,high,low,8,namesilo,,,22/09/2026 05:19
 378fa907-25b4-49f3-815c-2c0a06db5242,benet.academy,available,17.99,46.99,high,low,5,namesilo,,,23/09/2026 07:58
 58e13b16-f3ff-4e94-8e5f-414f00180434,spare.academy,available,17.99,46.99,high,low,5,namesilo,,,24/09/2026 15:52
+8bc605b5-228b-453b-8c0f-7cf9255ab2b8,disapprove.academy,available,17,,medium,low,10,unstoppable,,,02/10/2026 06:43
 ea298a41-9126-4701-9ed3-219ee366a301,squarish.academy,available,8.48,59.98,medium,low,8,namecheap,,,10/09/2026 17:29
 b0231443-8329-4478-962e-190abfb0c01d,equipping.academy,available,17.99,46.99,medium,low,9,namesilo,,,20/09/2026 07:13
 ad95fe34-6dad-4e3b-85d2-c24ddcc70d8b,nipple.academy,available,19.99,83.99,high,low,6,godaddy,,,30/09/2026 02:11
+031005e6-5b98-4f49-b2f6-63a635854fab,stv.academy,available,11.99,38.74,high,low,3,dynadot,,,02/10/2026 17:55
 97759a4b-824c-4172-a251-e1653ee71bee,eatery.academy,available,7.45,37.46,high,low,6,spaceship,,,01/10/2026 02:34
 1d653b06-7043-4042-b0e2-4ebfe714ca15,composed.academy,available,8.48,59.98,high,low,8,namecheap,,,23/09/2026 17:50
 71b149e7-d90f-4851-a97a-c63ce62a340f,turbid.academy,available,8.48,59.98,medium,low,6,namecheap,,,25/08/2026 01:10
@@ -854,6 +929,7 @@ d961954b-1b06-4d93-b776-a6c3d7870df5,polysemous.academy,available,8.48,59.98,med
 168058e4-d13e-48be-9426-506d9c92b0c1,crate.academy,available,8.48,59.98,high,low,5,namecheap,,,24/09/2026 19:07
 24185080-9e85-4b1f-8065-3a5a7aebe948,turncoat.academy,available,8.48,59.98,medium,low,8,namecheap,,,06/08/2026 03:49
 ff297298-4431-44c1-bae9-c3b1cd150711,magyar.academy,available,8.48,59.98,high,low,6,namecheap,,,21/08/2026 15:41
+ac3e9bda-de2b-4a47-a09d-47ee8b8b690e,haakon.academy,available,17.99,46.99,medium,low,6,namesilo,,,03/10/2026 04:56
 fad6d6b1-4eb3-48d1-85ff-f01eed82d09e,spaciously.academy,available,8.48,59.98,medium,low,10,namecheap,,,16/09/2026 00:04
 f061e552-7df3-4077-83b1-1a320f01c538,exocentric.academy,available,8.48,59.98,medium,low,10,namecheap,,,17/08/2026 17:21
 d4ea1bfd-a766-4368-b165-cd90a54e88d8,allgood.academy,available,17.99,46.99,high,low,7,namesilo,,,18/09/2026 10:56
@@ -863,8 +939,10 @@ e25d5e3b-1c57-480e-b0dd-611a614794f7,termination.academy,available,8.48,59.98,hi
 833717bd-e4ab-4e3e-ab79-a30cf4e5e1f3,hepatitis.academy,available,7.45,37.46,high,low,9,spaceship,,,29/09/2026 19:09
 83814dd0-7c82-4735-9efa-499639bfab54,armchair.academy,available,17.99,46.99,high,low,8,namesilo,,,20/09/2026 06:33
 a009f35e-cea5-4c41-a9c1-cba9522dbb73,grandmothers.academy,available,8.48,59.98,medium,low,12,namecheap,,,20/09/2026 18:06
+26cd1256-36cf-411a-ae42-dedb8e06ae6e,poorest.academy,available,17.99,46.99,low,low,7,namesilo,,,02/10/2026 13:44
 ebf977c0-2770-48c7-8261-2af05ab28e9a,formicary.academy,available,8.48,59.98,medium,low,9,namecheap,,,19/09/2026 13:26
 24771966-e2d0-4507-abc0-407034dba803,musk.academy,resell,,,high,low,4,,,,02/10/2026 05:56
+f8bc0a09-9bf5-40e1-859f-73c3134abfd3,endeavors.academy,available,7.45,37.46,medium,low,9,spaceship,,,02/10/2026 12:56
 048174d8-208e-427b-bd1c-380b5fdfb7a8,implied.academy,available,17.99,46.99,high,low,7,namesilo,,,30/09/2026 22:53
 b364965a-b79c-44d8-a802-6fe39bf1a6ce,ringtail.academy,available,8.48,59.98,medium,low,8,namecheap,,,22/09/2026 12:08
 7ea9af48-0cf8-428f-94f3-bbf39e8e0d54,dobbs.academy,available,36.2,36.2,medium,low,5,cloudflare,,,29/09/2026 10:37
@@ -873,7 +951,9 @@ ca6debd4-f04a-45d7-bae2-2457bead051a,loss.academy,resell,,,high,low,4,"GoDaddy.c
 9c344019-3abd-4d54-9f50-6ebce4b517aa,unhallowed.academy,available,8.48,59.98,medium,low,10,namecheap,,,12/09/2026 11:49
 489725b9-6ac9-437b-8a22-041ef07f3694,truly.academy,available,17,,high,low,5,unstoppable,,,28/09/2026 15:02
 19a71ed2-0da9-43b5-aa4b-263d10afc67d,zola.academy,available,7.45,37.46,medium,low,4,spaceship,,,29/09/2026 12:10
+0c0d18d6-f392-4292-90fd-5b7306270449,overdrive.academy,available,17,,high,low,9,unstoppable,,,03/10/2026 01:44
 305e5e06-170a-4a30-a3ec-82266a9f32be,kaiser.academy,available,17.99,46.99,high,medium,6,namesilo,,,29/09/2026 13:13
+3b95447e-bf0a-4cf1-8ee1-5bbe2071d55c,organist.academy,available,7.45,37.46,high,low,8,spaceship,,,02/10/2026 16:16
 c6867b63-dfea-412d-a025-502ea1dc6588,sew.academy,premium,99.5,,high,low,3,unstoppable,,,29/09/2026 14:00
 a1e9f50a-c89d-4758-a372-2d1690217a41,stockpile.academy,available,8.48,59.98,medium,low,9,namecheap,,,10/09/2026 20:52
 31427dad-ae9b-40c4-8213-298a541d2c5c,publicly.academy,available,8.48,59.98,medium,low,8,namecheap,,,28/09/2026 15:37
@@ -886,9 +966,10 @@ faaa40ef-c8e8-4cba-a72f-4f23ebf322a9,nutcase.academy,available,8.48,59.98,medium
 9c3803f6-3a03-445e-a9c0-c00a50407442,rove.academy,available,8.48,59.98,high,low,4,namecheap,,,10/09/2026 22:12
 00ca7a99-39a1-4dc4-937a-9a5c91d5c8c9,bethlehem.academy,available,8.48,59.98,high,low,9,namecheap,,,22/09/2026 18:15
 c0fc2794-733c-42bd-845d-5c196bfffd98,nobelium.academy,available,8.48,59.98,medium,low,8,namecheap,,,20/09/2026 21:58
+a3326960-0e18-45b3-957f-81b495312a20,tallahassee.academy,available,17.99,46.99,medium,low,11,namesilo,,,02/10/2026 08:29
 3d923524-c69b-41fe-a0da-da0d9fea7c65,rampantly.academy,available,8.48,59.98,medium,low,9,namecheap,,,13/09/2026 11:58
 f98f4d41-64c9-4ce9-9424-c84e329215c9,kimberly.academy,premium,128.7,128.7,medium,low,8,namecheap,,,28/09/2026 08:56
-63e13659-db81-4f63-97a5-a284ae81dd98,represented.academy,available,21.99,,high,low,11,name.com,,,
+63e13659-db81-4f63-97a5-a284ae81dd98,represented.academy,available,36.2,36.2,high,low,11,cloudflare,,,03/10/2026 01:48
 04bbca14-7928-4c8c-8c1a-3ec1ff807c23,screenplay.academy,available,7.45,37.46,high,low,10,spaceship,,,28/09/2026 20:23
 a8e6e822-9157-40f7-a380-0f2f912c4ea3,aleksandr.academy,available,17.99,46.99,medium,low,9,namesilo,,,28/09/2026 08:00
 ae7c2919-b40b-481f-a24a-5adf6956c802,laurence.academy,available,17,,high,low,8,unstoppable,,,30/09/2026 06:35
@@ -918,84 +999,3 @@ dfda41a9-a37e-4920-89b7-a6cde9c8599a,elfish.academy,available,8.48,59.98,medium,
 cc1eeb9e-b73e-4198-b46f-11df4538510e,palo.academy,available,17.99,46.99,medium,low,4,namesilo,,,27/09/2026 01:51
 5fc6088a-7e19-4c0f-8150-f2fdb9e8d943,stoker.academy,available,8.48,59.98,medium,low,6,namecheap,,,16/09/2026 16:53
 51fad08e-1421-4ffc-a518-334e1d879cff,apples.academy,available,17.99,46.99,high,low,6,namesilo,,,18/09/2026 14:01
-2334bb8d-7074-4471-b67f-7c3723468b6e,estates.academy,available,8.48,59.98,medium,low,7,namecheap,,,18/09/2026 06:36
-da63e2df-6490-4580-826f-d2ff1c5cbacd,ringer.academy,available,17.99,46.99,high,low,6,namesilo,,,23/09/2026 05:42
-c2f9a299-90bd-4b84-a82e-b1f36147466c,philistine.academy,available,8.48,59.98,medium,low,10,namecheap,,,
-b09ab594-e55f-4679-b849-c02c803d7ab0,chloride.academy,available,7.45,37.46,medium,low,8,spaceship,,,30/09/2026 09:09
-d75a02ed-8d99-44f0-a943-4e986a5bffef,muddy.academy,available,8.48,59.98,high,low,5,namecheap,,,10/08/2026 17:08
-8b0434aa-d19e-42f0-9452-6200d4dbf114,diminutive.academy,available,8.48,59.98,medium,low,10,namecheap,,,08/08/2026 14:10
-54b95388-7a06-4294-8f10-7844107001bb,annotator.academy,available,17.99,46.99,medium,low,9,namesilo,,,19/09/2026 10:48
-f8d958c6-c56e-4ef9-86e9-bf9234796242,macleish.academy,available,17.99,46.99,medium,low,8,namesilo,,,20/09/2026 02:03
-86c25400-22b5-48d9-a76f-fd6bacf3aecd,printer.academy,available,11.99,38.74,high,low,7,dynadot,,,28/09/2026 15:08
-6159cf57-5aea-429d-9154-6e0c3c2a6501,avionics.academy,available,17.99,46.99,high,low,8,namesilo,,,21/09/2026 09:35
-2d680000-7ead-4190-9ae7-7573e5bf6d9a,seditious.academy,available,8.48,59.98,medium,low,9,namecheap,,,22/08/2026 01:29
-e4ca79d0-2fda-4eec-b689-10e2672a87bc,afflicted.academy,available,8.48,59.98,medium,low,9,namecheap,,,
-f6c6a7fe-7226-40e5-ae36-64390f249c46,trondheim.academy,available,7.45,37.46,high,low,9,spaceship,,,29/09/2026 13:33
-042027b8-eca3-47b3-9c88-c4b475a7022f,continually.academy,available,17,,medium,low,11,unstoppable,,,01/10/2026 13:36
-4a51ea20-3485-46a3-9e85-410d55787f11,loyal.academy,available,8.48,59.98,high,low,5,namecheap,,,25/09/2026 15:30
-270b1728-215b-406c-aaa4-04a2698d5304,carpenter.academy,available,19.99,83.99,high,low,9,godaddy,,,28/09/2026 01:36
-6d62ae2f-369e-411a-8483-159d4015cc49,bathsheba.academy,available,17.99,46.99,medium,low,9,namesilo,,,22/09/2026 13:52
-a9516d27-89dc-4fb7-bdc5-fcce2513639f,unwilling.academy,available,8.48,59.98,medium,low,9,namecheap,,,12/09/2026 22:40
-61adaf85-23b9-46bb-9003-f42da21d6ed0,rgb.academy,available,21.99,,high,low,3,name.com,,,
-aca78c1e-21a8-498f-950e-ef9a73b6c374,highlighting.academy,available,7.45,37.46,high,low,12,spaceship,,,01/10/2026 23:00
-146c2cbb-877b-40aa-8eec-f72584463899,katanga.academy,available,7.45,37.46,medium,low,7,spaceship,,,30/09/2026 21:27
-d0a5f23e-0172-4824-8d07-043c1a40fa85,reggie.academy,available,36.2,36.2,high,low,6,cloudflare,,,28/09/2026 07:45
-da6fc9a7-f5ac-42e6-ac88-82244b615257,afflatus.academy,available,8.48,59.98,medium,low,8,namecheap,,,17/09/2026 14:39
-fe6e3486-2134-4603-a7e0-798bc75b1813,ordained.academy,available,8.48,59.98,medium,low,8,namecheap,,,13/08/2026 22:16
-98175ee6-3d2f-47c8-9d4c-53defddfd262,serviced.academy,available,36.2,36.2,medium,low,8,cloudflare,,,01/10/2026 15:44
-6e05a226-f69e-43aa-b3d5-d7fc6d3c50c9,aversion.academy,available,17.99,46.99,medium,low,8,namesilo,,,19/09/2026 14:54
-f59f19f5-805b-4171-b5c7-e4bcea338578,days.academy,available,11.84,37.59,high,low,4,porkbun,,,29/09/2026 13:20
-427160dc-dde4-447c-9098-d3ed0b0bf210,barye.academy,available,17.99,46.99,medium,low,5,namesilo,,,22/09/2026 03:48
-bf0db012-44c8-4b5b-84a4-55f1dc5c3b29,cock.academy,available,17.99,46.99,high,low,4,namesilo,,,28/09/2026 02:08
-fd6b2767-9251-47d5-8e70-7476cacbe84b,cohomology.academy,available,7.45,37.46,medium,low,10,spaceship,,,30/09/2026 15:06
-ae49a246-63d8-4365-b6f4-c73993b89382,frustrating.academy,available,17.99,46.99,medium,low,11,namesilo,,,29/09/2026 14:46
-88d73282-f512-4abe-95f4-8caae67b7d2b,mongol.academy,available,8.48,59.98,high,low,6,namecheap,,,25/08/2026 04:45
-82521db8-a841-4d96-bbc0-57cc32796716,bounced.academy,available,7.45,37.46,medium,low,7,spaceship,,,29/09/2026 17:31
-99192aa9-60d2-47b3-9b23-b7bf1142181e,diminish.academy,available,7.45,37.46,medium,low,8,spaceship,,,01/10/2026 19:13
-4c4f9158-2cad-4b56-8312-335c47ca3a83,structurally.academy,available,8.48,59.98,medium,low,12,namecheap,,,17/09/2026 20:10
-79834c10-0688-4886-9aa1-6ab8a1dbfb88,supergroup.academy,available,17,,high,low,10,unstoppable,,,01/10/2026 23:14
-76432bc8-4d9e-4ae6-903d-8f05322ace8f,allhallows.academy,available,8.48,59.98,medium,low,10,namecheap,,,18/09/2026 09:24
-2a884934-3899-4d7d-8155-5dbf68c5dc13,arcturus.academy,available,17.99,46.99,medium,low,8,namesilo,,,20/09/2026 03:01
-0caa5809-b424-4bdd-95a4-efa96d7b5328,rowell.academy,available,17.99,46.99,medium,low,6,namesilo,,,01/10/2026 11:02
-f1da5f1d-e57f-4554-aeda-de9274180b0c,prone.academy,available,17.99,46.99,medium,low,5,namesilo,,,27/09/2026 07:37
-aa77c4e8-bc67-4914-8604-57093873f0b9,plenteous.academy,available,8.48,59.98,medium,low,9,namecheap,,,08/09/2026 21:08
-7884d797-5055-4883-a5b8-1be83739e1cf,pauline.academy,available,8.48,59.98,high,low,7,namecheap,,,08/09/2026 10:51
-17c981a1-ff74-4964-b04e-e2fed3cf2d96,darn.academy,available,21.99,62.99,high,low,4,name.com,,,13/08/2026 16:10
-d719a13f-46d2-4596-9041-14afd0e2c1c7,andradite.academy,available,8.48,59.98,medium,low,9,namecheap,,,19/09/2026 04:09
-3ad055a6-d2b6-4540-b34c-2d3c092aacfd,motorized.academy,available,8.48,59.98,high,low,9,namecheap,,,24/08/2026 18:45
-fa0e61e6-bc96-4a2d-ab87-b323eab6d55c,eagerly.academy,available,8.48,59.98,medium,low,7,namecheap,,,14/09/2026 14:54
-c4e88d66-a1f3-4e7a-8b40-1148ce5cfb03,enlargement.academy,available,8.48,59.98,high,low,11,namecheap,,,30/09/2026 22:28
-381b4aa8-dd0e-4530-9568-486eca5241c0,experiment.academy,available,36.2,36.2,high,low,10,cloudflare,,,30/09/2026 21:03
-ba045722-0d3b-4835-953b-4ac86d690719,rapist.academy,available,17.99,46.99,high,low,6,namesilo,,,30/09/2026 10:57
-8e9f5b97-d653-479d-9b38-82b655a92a5d,tables.academy,available,17.99,46.99,high,low,6,namesilo,,,27/09/2026 02:00
-c7e1a96b-7389-4111-bf6c-a3138ff4934b,shriek.academy,available,8.48,59.98,medium,low,6,namecheap,,,09/09/2026 23:53
-9c364d2b-e223-4428-97bd-431d957c6357,estuaries.academy,available,17,,low,low,9,unstoppable,,,28/09/2026 12:58
-65f5cf24-e069-4269-b718-b311cec0bd00,watched.academy,available,17.99,46.99,high,low,7,namesilo,,,18/09/2026 01:33
-87c1ba1c-c4ba-4304-be78-01de4cc98227,annals.academy,available,17.99,46.99,high,low,6,namesilo,,,19/09/2026 10:05
-a3ca424d-112e-420e-9674-23177a40f53d,mistflower.academy,available,17.99,46.99,medium,low,10,namesilo,,,17/09/2026 17:17
-d4eb0e1a-6c37-43e2-8c5b-5b491189d16d,barish.academy,available,8.48,59.98,medium,low,6,namecheap,,,22/09/2026 06:05
-385b3d6e-96b5-441e-8eaa-c729789a7f22,commenced.academy,available,36.2,36.2,medium,low,9,cloudflare,,,02/10/2026 02:27
-9be91a48-012c-4fe0-9ff7-7fb5e6361fbf,europe.academy,resell,,,high,medium,6,Automattic Inc.,30/07/2021 19:08,30/07/2027 19:08,29/09/2026 10:27
-bbb7f1f3-8946-4bd7-949e-823158e2e29d,oncologic.academy,available,8.48,59.98,medium,low,9,namecheap,,,04/09/2026 14:25
-a5d6e48c-31d6-44f9-9cab-11d0fc28da9f,affiliates.academy,available,8.48,59.98,high,low,10,namecheap,,,21/09/2026 06:56
-fb14282a-dc47-40af-a872-0d46df6bdbcd,onymous.academy,available,8.48,59.98,medium,low,7,namecheap,,,04/09/2026 15:26
-2978f90e-68bc-408c-bc68-3766e9c49e80,wisconsin.academy,available,8.48,59.98,high,low,9,namecheap,,,21/09/2026 17:10
-90d9edea-2ff3-47fc-8157-9311742dba14,mouthwash.academy,available,21.99,,high,low,10,name.com,,,
-748aeb39-5e24-4021-a920-e5cc1b39f3d8,sichuan.academy,available,36.2,36.2,medium,low,7,cloudflare,,,28/09/2026 15:21
-79c988f6-1f17-48fc-82ca-fd0bf1934f38,sensor.academy,available,17,,high,low,6,unstoppable,,,29/09/2026 14:18
-21bf2c16-3563-4cde-8eaa-033086b9efc7,aides.academy,available,8.48,59.98,high,low,5,namecheap,,,17/09/2026 20:51
-661e37fe-1c19-4026-8ad4-80a042fc2c6b,yamani.academy,available,8.48,59.98,medium,low,6,namecheap,,,17/09/2026 20:29
-3e1155f0-2317-4fda-905b-c44b638eb9eb,mortality.academy,available,17.99,46.99,medium,low,9,namesilo,,,29/09/2026 06:35
-d648f67f-b863-4ab0-8a64-c27c83eedef9,cause.academy,available,8.48,59.98,high,low,5,namecheap,,,24/09/2026 13:11
-9a994f9e-ec17-46da-bf5d-64001def2220,assertive.academy,available,8.48,59.98,medium,low,9,namecheap,,,07/08/2026 05:59
-85bbae07-6619-4559-896d-fd834f09cb6f,statistic.academy,available,11.99,38.74,high,low,9,dynadot,,,30/09/2026 11:05
-050c2a80-6e63-4d44-a44b-c0a316c37380,chairman.academy,available,36.2,36.2,high,low,8,cloudflare,,,29/09/2026 07:55
-4be7e615-e926-47a3-ba8b-77e83b03bc81,illustrator.academy,available,7.45,37.46,high,low,11,spaceship,,,01/10/2026 22:47
-3c0552fe-e67e-467e-b775-19ccbd397834,molded.academy,available,8.48,59.98,medium,low,6,namecheap,,,25/08/2026 03:46
-867966fa-1be2-492b-a109-b761c0b6b601,jamieson.academy,available,17.99,46.99,high,low,8,namesilo,,,29/09/2026 22:21
-fdc81fea-f2a0-42f8-a0a3-f6aca61abdce,believing.academy,available,17.99,46.99,high,low,9,namesilo,,,23/09/2026 05:15
-67e82ad0-4b67-4979-9c57-d18c7611dc48,pigeons.academy,available,17.99,46.99,medium,low,7,namesilo,,,20/09/2026 07:08
-2b72b473-d0ee-42bc-b561-1566b852801d,gang.academy,available,17.99,46.99,high,low,4,namesilo,,,29/09/2026 20:39
-1473f32e-f4e5-4e63-9c13-f4beaf22358f,fences.academy,available,7.45,37.46,medium,low,6,spaceship,,,29/09/2026 11:21
-f565cfd3-da2b-43bf-9fa1-88add25c04d4,dishcloth.academy,available,17.99,46.99,medium,low,9,namesilo,,,24/09/2026 22:40
-5179d680-13bb-418e-b034-abfe7a22505b,thermic.academy,available,8.48,59.98,medium,low,7,namecheap,,,11/08/2026 15:05
